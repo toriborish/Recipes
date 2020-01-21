@@ -2,7 +2,7 @@
    single: bread; sourdough
 
 Whole Wheat Sourdough
-================
+=====================
 
 -  *600 g AP flour*
 -  *200 g whole wheat flour*
