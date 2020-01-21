@@ -1,25 +1,25 @@
 # Branzino al forno
 
-### Ingredients
 
-#### Main
 
-* 1 branzino
-* oil
-* salt
-* parsley
-* rosemary
-* 1 lemon
+**_Main_**
 
-#### Garlic parsley sauce
+* *1 branzino*
+* *oil*
+* *salt*
+* *parsley*
+* *rosemary*
+* *1 lemon*
 
-* garlic
-* parsley
-* oil
-* salt
-* fermented lemon
+**_Garlic parsley sauce_**
 
-### Directions
+* *garlic*
+* *parsley*
+* *oil*
+* *salt*
+* *fermented lemon*
+
+----
 
 Scale and clean the fish. Season inside and outside with salt and oil.
 Inset 3 thin lemon rounds, some parsley and rosemary in the cavity.
