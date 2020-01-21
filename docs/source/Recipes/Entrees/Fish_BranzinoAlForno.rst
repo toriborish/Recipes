@@ -1,22 +1,25 @@
+.. index::
+   single: fish; branzino
+
 Branzino al forno
 =================
 
 - *Main*
 
-	-  *1 branzino*
-	-  *oil*
-	-  *salt*
-	-  *parsley*
-	-  *rosemary*
-	-  *1 lemon*
+   -  *1 branzino*
+   -  *oil*
+   -  *salt*
+   -  *parsley*
+   -  *rosemary*
+   -  *1 lemon*
 
 - *Garlic parsley sauce*
 
-	-  *garlic*
-	-  *parsley*
-	-  *oil*
-	-  *salt*
-	-  *fermented lemon*
+   -  *garlic*
+   -  *parsley*
+   -  *oil*
+   -  *salt*
+   -  *fermented lemon*
 
 
 
