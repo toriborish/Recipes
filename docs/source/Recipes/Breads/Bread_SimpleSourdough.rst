@@ -1,12 +1,12 @@
 Simple Sourdough
 ================
 
--  *``600gr`` AP flour*
--  *``200gr`` whole wheat flour*
--  *``200gr`` bread flour*
--  *``200gr`` active starter (has been fed at least twice)*
--  *``760gr`` water*
--  *``20gr`` salt*
+-  *600gr AP flour*
+-  *200gr whole wheat flour*
+-  *200gr bread flour*
+-  *200gr active starter (has been fed at least twice)*
+-  *760gr water*
+-  *20gr salt*
 -  *splash of oil*
 
 Mix the flours with ``700gr`` water at ``~100F`` and roughly mix.
