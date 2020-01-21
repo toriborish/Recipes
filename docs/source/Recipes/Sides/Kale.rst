@@ -1,3 +1,6 @@
+.. index::
+   single: side; kale
+
 Soy Sauce Kale
 ==============
 

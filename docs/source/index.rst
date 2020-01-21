@@ -13,3 +13,4 @@ Table of Contents
    Recipes/Desserts/index.rst
 
 * :ref:`search`
+* :ref:`genindex`
