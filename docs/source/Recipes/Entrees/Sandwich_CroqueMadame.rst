@@ -28,4 +28,9 @@ Place in sheet tray. Pour bechamel, grate more cheese. Broil until ready.
 
 Fry egg. Put egg on top of sandwitch.
 
+Notes
+^^^^^
+
+Tried this with grilled eggplant instead of ham.
+
 `Source <https://www.youtube.com/watch?v=lUOxE_NdIwE>`_
