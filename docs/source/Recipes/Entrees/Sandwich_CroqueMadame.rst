@@ -1,3 +1,6 @@
+.. index::
+   single: sandwich; croque madame
+
 Croque Madame
 =============
 
