@@ -28,9 +28,8 @@ Place in sheet tray. Pour bechamel, grate more cheese. Broil until ready.
 
 Fry egg. Put egg on top of sandwitch.
 
-Notes
-^^^^^
+.. note::
 
-Tried this with weird pancetta sticks of ham. Topped with chopped parsley and fermented lemon peel.
+	Tried this with weird pancetta sticks and caramelized onions instead of ham, and poched instead of fried egg. Topped with chopped parsley and fermented lemon peel. Would be better with some vegetable to make it lighter, maybe grilled eggplant.
 
 `Source <https://www.youtube.com/watch?v=lUOxE_NdIwE>`_
