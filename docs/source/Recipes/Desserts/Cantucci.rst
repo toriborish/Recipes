@@ -21,4 +21,9 @@ Divide into two, roll into two cilinders (*3-4 cm* diameter, they will puff up c
 Cook at *190 C*/*374 F*  for 20 minutes. Rest for a few minutes. Slice *1 cm* thick slices, cook for 5-7 more minutes into
 *200 C*/*392 F* oven.
 
+Notes
+^^^^^
+
+Maybe more orange and almonds, and less sugar?
+
 `Source 1 <https://www.cucchiaio.it/ricetta/cantucci/>`_
