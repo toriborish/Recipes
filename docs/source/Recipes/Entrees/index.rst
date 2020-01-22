@@ -10,4 +10,5 @@ Entrees
    Sandwich*
    Fish*
    Pasta*
+   Curry*
 
