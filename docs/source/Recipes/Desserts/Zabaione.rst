@@ -8,9 +8,14 @@ Zabaione
 - *40-120g sugar*
 - *80-200g sweet wine/beer*
 
+
+Mix yolks and sugar until light in color. Add liquid and cook onto double boiler until thickened.
+(Possibly 83C????)
+
 `Source 1 <https://blog.giallozafferano.it/martolinaincucina/zabaione-alla-birra/>`_
 
 `Source 2 <https://www.mondobirra.org/ricettazabaione.htm>`_
+
 
 .. epigraph::
 
@@ -23,3 +28,8 @@ Zabaione
    Meglio, io credo, sia il servirsi della cioccolatiera.
 
    -- Pellegrino Artusi
+
+.. note::
+
+   ended up with 3.5 egg yolks, ~ 60 g sugar and about 80 g beer. Seemed a bit too yeasty. Might be better with wine (possibly less),
+   maybe some citrus zest somewhere.
