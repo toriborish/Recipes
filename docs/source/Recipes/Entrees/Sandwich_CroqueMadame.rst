@@ -12,9 +12,9 @@ Croque Madame
 	- *fresh cracked black pepper to taste*
 
 - *Bechamel (3/4 sandwiches):*
-	- *3 tablespoons all purpose flour*
-	- *4 tablespoons unsalted butter*
-	- *2 cups warmed milk*
+	- *3 tablespoons 45 g all purpose flour*
+	- *4 tablespoons 70 gr unsalted butter*
+	- *2 cups 512 g warmed milk*
 	- *optionally you can add a bay leaf to the warm milk before adding it to the bechamel*
 	- *scant 1/4 teaspoon ground nutmeg (fresh grated is ideal)*
 
@@ -31,6 +31,6 @@ Fry egg. Put egg on top of sandwitch.
 Notes
 ^^^^^
 
-Tried this with grilled eggplant instead of ham.
+Tried this with weird pancetta sticks of ham. Topped with chopped parsley and fermented lemon peel.
 
 `Source <https://www.youtube.com/watch?v=lUOxE_NdIwE>`_
