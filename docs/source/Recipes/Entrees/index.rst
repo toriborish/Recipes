@@ -8,7 +8,9 @@ Entrees
    :maxdepth: 1
 
    Sandwich*
-   Fish*
    Pasta*
    Curry*
+   Fish*
+   Beef*
+   Pork*
 

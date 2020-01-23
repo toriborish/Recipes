@@ -1,7 +1,7 @@
 .. index::
    single: pork; rillette
 
-Pork Rilletts
+Pork Rillettes
 =====================
 
 -  *1 kg pork shoulder, cut into chunks*
@@ -23,7 +23,7 @@ Store in fridge for up to a week.
 
 `Source BonAppetit <https://www.bonappetit.com/recipe/rustic-pork-rillette>`_
 
-.. notes::
+.. note::
 
    The lemon zest was great! Didn't end up using all the liquid, the remainig stock was
    very dense and flavorful. More smaller jars rather than a single big one would have been better.
