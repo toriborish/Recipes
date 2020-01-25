@@ -19,6 +19,8 @@ Continue reducing the liquid. Once reduced, add some of the liquid and fat to th
 Salt and pepper to taste. Pack tightly in a jar (small ones are better). Top with some of the fat.
 Store in fridge for up to a week.
 
+.. rubric:: References
+
 `Source NYT <https://cooking.nytimes.com/recipes/1013517-pork-rillettes>`_
 
 `Source BonAppetit <https://www.bonappetit.com/recipe/rustic-pork-rillette>`_

@@ -21,8 +21,9 @@ Indian-Spiced Roasted Chickpeas
 Micorwave chickpeas until the exterior is dry (10 mins). Cook them in 350 F oven with oil for 30 mins.
 Roast them for 20-40 mins more without burning them, until they are dry. Toss in the spice mixture.
 
+.. rubric:: References
+
+`Source <https://www.cooksillustrated.com/recipes/11331-indian-spiced-roasted-chickpeas?sqn=285jVFIW0ehzI8e5enCPVDJ67a/GSKdezJUyMGztuTQ%3D%0A&extcode=NSCIK15YT&utm_source=youtube&utm_medium=photo&utm_content=chickpeas&utm_campaign=youtube>`_
 
 .. note::
    Pretty good, cooked a bit too little. More crunch would have been nice
-
-`Source <https://www.cooksillustrated.com/recipes/11331-indian-spiced-roasted-chickpeas?sqn=285jVFIW0ehzI8e5enCPVDJ67a/GSKdezJUyMGztuTQ%3D%0A&extcode=NSCIK15YT&utm_source=youtube&utm_medium=photo&utm_content=chickpeas&utm_campaign=youtube>`_
