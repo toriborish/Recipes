@@ -10,6 +10,7 @@ Entrees
    Sandwich*
    Pasta*
    Curry*
+   Leek*
    Fish*
    Beef*
    Pork*
