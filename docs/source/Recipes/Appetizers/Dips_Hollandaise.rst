@@ -12,3 +12,7 @@ Hollandaise
 Whisk the eggs and most of the lemon juice.
 On a double boiler, whisk while slowly streaming the melted butter in.
 Add the remaining lemon juice and salt to taste.
+
+.. rubric:: References
+
+`Source (foodnetwork) <https://www.foodnetwork.com/recipes/tyler-florence/hollandaise-sauce-recipe-1910043>`_

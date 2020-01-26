@@ -19,6 +19,10 @@ Deflate the dough, divide in 16 parts, shape into balls and place them on the pa
 Let rise for 20 mins.
 Cook until ready. If burning, move into a 350 F oven.
 
+.. rubric:: References
+
+`King Arthur's flour blog <https://www.kingarthurflour.com/recipes/english-muffins-recipe>`_
+
 .. note::
 
    Halved the recipe, but not the egg... Dough was extremely wet.
