@@ -9,12 +9,12 @@ Indian-Spiced Roasted Chickpeas
 -  *3 tablespoons extra-virgin olive oil*
 -  *2 teaspoons paprika*
 -  *1 teaspoon ground coriander*
--  *½ teaspoon ground turmeric*
--  *½ teaspoon ground allspice*
--  *½ teaspoon ground cumin*
--  *½ teaspoon sugar*
--  *⅜ teaspoon kosher salt*
--  *⅛ teaspoon cayenne pepper*
+-  *1/2 teaspoon ground turmeric*
+-  *1/2 teaspoon ground allspice*
+-  *1/2 teaspoon ground cumin*
+-  *1/2 teaspoon sugar*
+-  *3/8 teaspoon kosher salt*
+-  *1/8 teaspoon cayenne pepper*
 
 
 
