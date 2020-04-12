@@ -28,6 +28,6 @@ Top with a layer of strawberries. Refrigerate for 1-2 hours before serving.
 
 `Souce <https://ricetta.it/tiramisu>`_
 
-.. notes::
+.. note::
    more straberries, more lemon juice.
    It worked but barely side of ok for strawberries and lemon
