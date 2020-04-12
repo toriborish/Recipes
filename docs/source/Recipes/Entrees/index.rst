@@ -11,6 +11,7 @@ Entrees
    Pasta*
    Curry*
    Leek*
+   Tomato*
    Fish*
    Beef*
    Pork*
