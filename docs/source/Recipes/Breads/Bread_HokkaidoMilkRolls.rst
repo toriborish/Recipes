@@ -27,7 +27,7 @@ Cook in a 350F oven until ready (25 minutes). Add a container with water in the 
 
 .. rubric:: References
 
-`King Arthur's flour blog <https://www.kingarthurflour.com/recipes/english-muffins-recipe>`_
+`King Arthur's flour blog <https://www.kingarthurflour.com/recipes/japanese-milk-bread-rolls-recipe>`_
 
 .. note::
 
