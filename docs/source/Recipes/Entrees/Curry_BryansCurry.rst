@@ -14,10 +14,10 @@ Bryan's Curry
 - *salt*
 - *paprika*
 - *cayenne*
-- *500 gr of any kind of solid vegetable, meat cubes, paneer or tofu*
+- *500 g of any kind of solid vegetable, meat cubes, paneer or tofu*
 - *1/2 can of tomato sauce*
-- *100 gr ground cashews*
-- *100 gr yogurt*
+- *100 g ground cashews*
+- *100 g yogurt*
 
 Sautee onions in butter or oil. When translucent, add garlic ginger paste. Cook 1-2 minutes.
 Add spice mixture, cook until fragrant. Add paneer cubes.

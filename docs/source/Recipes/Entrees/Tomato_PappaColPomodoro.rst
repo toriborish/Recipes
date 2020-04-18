@@ -5,7 +5,7 @@ Pappa col Pomodoro
 =====================
 
 - *about 2 cups tomato sauce (can be passata, canned tomatoes, grated and cooked freh tomatoes...)*
-- *200-300 gr stale bread*
+- *200-300 g stale bread*
 - *1 red onion*
 - *2 cloves of garlic*
 - *either a few basil leaves or a tiny rosemary sprig*

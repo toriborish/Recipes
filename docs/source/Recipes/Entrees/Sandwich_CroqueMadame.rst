@@ -13,7 +13,7 @@ Croque Madame
 
 - *Bechamel (3/4 sandwiches):*
 	- *3 tablespoons 45 g all purpose flour*
-	- *4 tablespoons 70 gr unsalted butter*
+	- *4 tablespoons 70 g unsalted butter*
 	- *2 cups 512 g warmed milk*
 	- *optionally you can add a bay leaf to the warm milk before adding it to the bechamel*
 	- *scant 1/4 teaspoon ground nutmeg (fresh grated is ideal)*

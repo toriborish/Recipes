@@ -4,18 +4,18 @@
 Hokkaido Milk Rolls
 =====================
 
--  *43 gr bread flour*
--  *86 gr milk*
+-  *43 g bread flour*
+-  *86 g milk*
 
 Combine milk and flour in a skillet and cook on medium heat until it forms a gelatinous paste
 (about 5 minutes).
 
--  *300 gr bread flour*
--  *113 gr milk*
--  *40 gr butter*
+-  *300 g bread flour*
+-  *113 g milk*
+-  *40 g butter*
 -  *1 egg*
 -  *5 g instant yeast*
--  *30 gr sugar*
+-  *30 g sugar*
 -  *6 g salt*
 
 Mix everything (including the paste from the previous step) with stand mixer at medium-high speed for 5 minutes (until it forms a ball).
@@ -33,4 +33,4 @@ Cook in a 350F oven until ready (25 minutes). Add a container with water in the 
 
    in the stand mixer, before adding the butter, the dough seemed too dry.
    Add water but overshot it. Added more flour...
-   I think the recipe can take a bit more liquid (maybe 5-10 gr?)
+   I think the recipe can take a bit more liquid (maybe 5-10 g?)
