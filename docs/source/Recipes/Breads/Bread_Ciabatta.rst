@@ -23,3 +23,6 @@ Preheat the oven preheted to 230C, and place a container of water inside it.
 Place the tray in the oven, cook for 20 minutes or so. Take the water container out
 at about half way. Turn off the oven, leave the ciabatta inside with the door cracked open.
 
+.. note::
+
+   Used bread flour, seemed good! Also, water was 382 g.
