@@ -9,11 +9,33 @@
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
-#
-# import os
-# import sys
+
+import os
+import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+# Hack for lacking git-lfs support on ReadTheDocs
+# (mainly gotten from https://test-builds.readthedocs.io/en/git-lfs/conf.html)
+if os.environ.get('READTHEDOCS', None) == 'True':
+    if not os.path.exists('./git-lfs'):
+        import requests
+        from urllib.parse import urlparse
+        # figure out what's the latest releast of git-lfs
+        r = requests.get("https://api.github.com/repos/git-lfs/git-lfs/releases/latest")
+        # find the download url for the latest release for Linux AMD
+        assets = r.json()["assets"]
+        url_to_download = list(
+            filter(lambda x: x["label"] == "Linux AMD64", assets)
+        )[0]['browser_download_url']
+        # download
+        os.system('wget ' + url_to_download)
+        # uncompress
+        path = os.path.basename(urlparse(url_to_download).path)
+        os.system('tar xvfz ' + path)
+        # install
+        os.system('./git-lfs install')  # make lfs available in current repository
+    os.system('./git-lfs fetch')  # download content from remote
+    os.system('./git-lfs checkout')  # make local files to have the real content on them
 
 # -- Project information -----------------------------------------------------
 
