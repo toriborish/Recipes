@@ -6,6 +6,7 @@ Table of Contents
    :glob:
    :maxdepth: 2
 
+   Recipes/Introduction/Introduction.rst
    Recipes/Appetizers/index.rst
    Recipes/Breads/index.rst
    Recipes/Entrees/index.rst
