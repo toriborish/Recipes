@@ -22,3 +22,7 @@ Churn.
 .. rubric:: References
 
 `Source <http://cookieandkate.com/2011/light-mint-ice-cream-recipe/>`_
+
+.. note::
+
+   This time it was a little icy.  It's been better before.
