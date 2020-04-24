@@ -4,14 +4,16 @@
 Tiramisù Alle Fragole
 =====================
 
-- *4 eggs*
-- *80 g sugar*
-- *450 g mascarpone*
-- *250 g savoiardi*
-- *60 g (1/4 cup) lemon juice*
-- *60 g (1/4 cup) lemon water*
-- *<50 g (<1/4 cup) sugar*
-- *450 g strawberries*
+.. ingredients::
+
+   - 4 eggs
+   - 80 g sugar
+   - 450 g mascarpone
+   - 250 g savoiardi
+   - 60 g (1/4 cup) lemon juice
+   - 60 g (1/4 cup) lemon water
+   - <50 g (<1/4 cup) sugar
+   - 450 g strawberries
 
 Chop the strawberries into sixths.
 Macerate the strawberries with the lemon juice, water and sugar for 1-2 hours.

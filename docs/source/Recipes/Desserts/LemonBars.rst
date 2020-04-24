@@ -4,14 +4,15 @@
 Cassie's Lemon Bars
 ===================
 
+.. ingredients::
 
-- *2 1/4 cups all-purpose flour*
-- *1/2 cup confectioners' sugar*
-- *1 cup butter, softened*
-- *4 eggs*
-- *1 1/2 cups white sugar*
-- *1/2 cup lemon juice*
-- *1 tablespoon lemon zest*
+   - 2 1/4 cups all-purpose flour
+   - 1/2 cup confectioners' sugar
+   - 1 cup butter, softened
+   - 4 eggs
+   - 1 1/2 cups white sugar
+   - 1/2 cup lemon juice
+   - 1 tablespoon lemon zest
 
 
 Preheat oven to 350 degrees F (175 degrees C).

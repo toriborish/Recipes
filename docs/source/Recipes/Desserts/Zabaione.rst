@@ -4,9 +4,11 @@
 Zabaione
 ========
 
-- *4 egg yolks*
-- *40-120g sugar*
-- *80-200g sweet wine/beer*
+.. ingredients::
+
+   - 4 egg yolks
+   - 40-120g sugar
+   - 80-200g sweet wine/beer
 
 
 Mix yolks and sugar until light in color. Add liquid and cook onto double boiler until thickened.

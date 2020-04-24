@@ -4,16 +4,17 @@
 Cantucci
 ========
 
+.. ingredients::
 
-- *2 eggs*
-- *170 g sugar*
-- *280 g AP flour*
-- *1/2 tsp baking soda/powder*
-- *40 g softened butter*
-- *70 g almonds*
-- *1 orange*
-- *1 tbsp honey*
-- *1 yolk for eggwash*
+   - 2 eggs
+   - 170 g sugar
+   - 280 g AP flour
+   - 1/2 tsp baking soda/powder
+   - 40 g softened butter
+   - 70 g almonds
+   - 1 orange
+   - 1 tbsp honey
+   - 1 yolk for eggwash
 
 Mix eggs and sugar (do not cream them). Mix flour and baking soda.
 Mix the two. Add butter, almonds, orange peel and honey. Work the dough quickly and make a ball.

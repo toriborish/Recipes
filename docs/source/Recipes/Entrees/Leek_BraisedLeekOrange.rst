@@ -4,12 +4,14 @@
 Leeks Braised with Oranges
 ==========================
 
--  *4 leeks*
--  *oil*
--  *2 oranges*
--  *2 bay leaves*
--  *fresh chili*
--  *salt and pepper*
+.. ingredients::
+
+   - 4 leeks
+   - oil
+   - 2 oranges
+   - 2 bay leaves
+   - fresh chili
+   - salt and pepper
 
 Cut the leeks lengthwise and clean them. Pat them dry.
 Sear them on medium high heat on both sides.

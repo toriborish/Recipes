@@ -4,19 +4,23 @@
 Croque Madame
 =============
 
-- *Sandwitch:*
-	- *2 slices bread*
-	- *2 ounces deli ham (french is recommended)*
-	- *1 1/3 cup grated gruyere cheese, divided*
-	- *2 teaspoons whole grain mustard*
-	- *fresh cracked black pepper to taste*
+.. ingredients::
 
-- *Bechamel (3/4 sandwiches):*
-	- *3 tablespoons 45 g all purpose flour*
-	- *4 tablespoons 70 g unsalted butter*
-	- *2 cups 512 g warmed milk*
-	- *optionally you can add a bay leaf to the warm milk before adding it to the bechamel*
-	- *scant 1/4 teaspoon ground nutmeg (fresh grated is ideal)*
+	**For the sandwitch:**
+
+	- 2 slices bread
+	- 2 ounces deli ham (french is recommended)
+	- 1 1/3 cup grated gruyere cheese, divided
+	- 2 teaspoons whole grain mustard
+	- fresh cracked black pepper to taste
+
+	**For the Bechamel (3 - 4 sandwiches):**
+
+	- 3 tablespoons 45 g all purpose flour
+	- 4 tablespoons 70 g unsalted butter
+	- 2 cups 512 g warmed milk
+	- optionally you can add a bay leaf to the warm milk before adding it to the bechamel
+	- scant 1/4 teaspoon ground nutmeg (fresh grated is ideal)
 
 For the bechamel: warm the milk (stop before boiling, possibly add bay leaf and nutmeg). Heat the butter in a separate pot.
 Add flour to butter and whisk. Cook a few minutes. Add milk in batches whisking.

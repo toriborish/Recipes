@@ -4,9 +4,11 @@
 Pasta all'Uovo
 ===============
 
-- *200 g farina 00*
-- *2 eggs*
-- *2 pinches of salt*
+.. ingredients::
+
+   - 200 g farina 00
+   - 2 eggs
+   - 2 pinches of salt
 
 Form a well with the flour, break the eggs in it. Add the salt.
 With a fork, slowly incorporate the flour into the egg.

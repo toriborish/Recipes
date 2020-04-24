@@ -4,11 +4,13 @@
 Pasta al Salmone
 =====================
 
-- *short pasta*
-- *smoked salmon*
-- *lemon*
-- *vodka*
-- *butter*
+.. ingredients::
+
+   - short pasta
+   - smoked salmon
+   - lemon
+   - vodka
+   - butter
 
 while pasta is cooking, take about half a cup of cooking liquid and pour in a skillet.
 Make it boil. Add a little bit of cold butter (30 grams or so) and mix until it emulsifies.

@@ -3,24 +3,25 @@
 
 Lemon–Olive Oil Tart
 ====================
+.. ingredients::
 
-For the tart shell:
+   **For the tart shell:**
 
-- *192 g AP flour*
-- *60 g sugar*
-- *112 g olive oil*
-- *30 g water*
-- *1 pinch of salt*
+   - 192 g AP flour
+   - 60 g sugar
+   - 112 g olive oil
+   - 30 g water
+   - 1 pinch of salt
 
-For the filling:
+   **For the filling:**
 
-- *3 eggs*
-- *3 eggs yolks*
-- *200 g sugar*
-- *16 g AP flour*
-- *118 g lemon juice*
-- *lemon zest to taste*
-- *56 g olive oil*
+   - 3 eggs
+   - 3 eggs yolks
+   - 200 g sugar
+   - 16 g AP flour
+   - 118 g lemon juice
+   - lemon zest to taste
+   - 56 g olive oil
 
 Preheat oven to 350 F. Mix flour, sugar salt, oil and water to form uniform dough.
 Press that in a 9 inch tart pan.bake for 30 - 45 minutees.
