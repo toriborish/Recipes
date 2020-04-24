@@ -1,5 +1,5 @@
 .. index::
-   single: pasta; fumé
+   single: pasta; ravioli
 
 Ravioli di Zucca with Kale and Pancetta
 =======================================
