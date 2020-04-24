@@ -11,7 +11,8 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 
 import os
-import sys
+import sphinx_bootstrap_theme
+
 # sys.path.insert(0, os.path.abspath('.'))
 
 # Hack for lacking git-lfs support on ReadTheDocs
@@ -70,7 +71,19 @@ master_doc = 'index'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+
+html_theme_options = {
+    'source_link_position': "footer",
+    'bootswatch_theme': "paper",
+    'navbar_pagenav': False,
+    'navbar_site_name': "Chapters",
+    'navbar_sidebarrel': True,
+    'bootstrap_version': "3",
+    'globaltoc_depth': -1
+    }
+
+html_theme = 'bootstrap'
+html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
