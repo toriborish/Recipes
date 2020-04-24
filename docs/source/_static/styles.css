@@ -1,3 +1,7 @@
+:root {
+    --link-color:#4c72b0;
+}
+
 body { color: #444444 !important; }
 
 h1 { font-size: 40px !important; }
@@ -12,11 +16,19 @@ footer {
 }
 
 footer a{
-    color: #4c72b0 !important;
+    color: var(--link-color) !important;
 }
 
-a.reference {
-    color: #4c72b0 !important;
+.wy-breadcrumbs a {
+    color: var(--link-color) !important;
+}
+
+.document a {
+    color: var(--link-color) !important;
+}
+
+.section a {
+    color: var(--link-color) !important;
 }
 
 .note {
@@ -42,8 +54,13 @@ a.reference {
     border-width: 0px 0px 0px 8px !important;
 }
 
-.admonition-title {
-    font-size: 18px;
+.admonition-ingredients > .admonition-title {
+    color: #444444 !important;
+    background-color: white !important;
+    font-size: 18px !important;
     font-style: normal !important;
 }
 
+.admonition-title::before {
+    content: none !important;
+}
