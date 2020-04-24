@@ -4,13 +4,15 @@
 Pasta al Fumé
 ===============
 
-- *400 g short pasta*
-- *200/300 g pancetta*
-- *1.5 onions*
-- *2 dried chili*
-- *1.5-2 cups tomato sauce*
-- *200 g swiss cheese*
-- *1-2 tbsp heavy cream*
+.. ingredients::
+
+   - 400 g short pasta
+   - 200/300 g pancetta
+   - 1.5 onions
+   - 2 dried chili
+   - 1.5-2 cups tomato sauce
+   - 200 g swiss cheese
+   - 1-2 tbsp heavy cream
 
 Cut the pancetta into `2 x 4 x .4` cm cuboids.
 Put the pancetta in a skillet with a little bit of oil. Slowly warm up the skillet to medium heat.

@@ -4,13 +4,15 @@
 English Muffins
 =====================
 
--  *540 g bread flour*
--  *400 g lukewarm milk*
--  *43 g butter*
--  *1 egg*
--  *6 g instant yeast*
--  *25 g sugar*
--  *9 g salt*
+.. ingredients::
+
+   - 540 g bread flour
+   - 400 g lukewarm milk
+   - 43 g butter
+   - 1 egg
+   - 6 g instant yeast
+   - 25 g sugar
+   - 9 g salt
 
 Mix everything with stand mixer at medium-high speed for 5 minutes (until it forms a ball).
 Make a ball, cover dough, let rise for 1-2 hours.

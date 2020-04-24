@@ -4,13 +4,15 @@
 Whole Wheat Sourdough
 =====================
 
--  *500 g AP flour*
--  *200 g whole wheat flour*
--  *200 g bread flour*
--  *100 g rye flour*
--  *200 g active starter (has been fed at least twice)*
--  *780 g water*
--  *20 g salt*
+.. ingredients::
+
+   - 500 g AP flour
+   - 200 g whole wheat flour
+   - 200 g bread flour
+   - 100 g rye flour
+   - 200 g active starter (has been fed at least twice)
+   - 780 g water
+   - 20 g salt
 
 Mix the flours with *700 g* water at *~100 F* and roughly mix.
 Autolyse for 20-30 minutes. Mix the starter and the remaining water. Add

@@ -1,0 +1,49 @@
+body { color: #444444 !important; }
+
+h1 { font-size: 40px !important; }
+h2 { font-size: 32px !important; }
+h3 { font-size: 24px !important; }
+h4 { font-size: 24px !important; }
+h5 { font-size: 18px !important; }
+h6 { font-size: 14px !important; }
+
+footer {
+    color: gray !important;
+}
+
+footer a{
+    color: #4c72b0 !important;
+}
+
+a.reference {
+    color: #4c72b0 !important;
+}
+
+.note {
+    color: #111111 !important;
+    background-color: aliceblue !important;
+    border-radius: 4px !important;
+}
+
+.tip {
+    color: #444444 !important;
+    background-color: mintcream !important;
+    border-radius: 4px !important;
+}
+
+.admonition-ingredients {
+    color: #444444 !important;
+    background-color: white !important;
+    font-style: italic !important;
+
+    border-radius: 4px !important;
+    border-color: gainsboro !important;
+    border-style: solid !important;
+    border-width: 0px 0px 0px 8px !important;
+}
+
+.admonition-title {
+    font-size: 18px;
+    font-style: normal !important;
+}
+

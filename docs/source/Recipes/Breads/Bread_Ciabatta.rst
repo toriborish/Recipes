@@ -4,10 +4,12 @@
 Ciabatta
 =====================
 
-- *500 g AP flour*
-- *375 g water*
-- *10 g salt*
-- *5 g yeast*
+.. ingredients::
+
+   - 500 g AP flour
+   - 375 g water
+   - 10 g salt
+   - 5 g yeast
 
 For the biga: mix 400 g of flour, 272 g water and 1 g yeast.
 Mix and let rest for 14-16 hours (until plump, gassy and sour).

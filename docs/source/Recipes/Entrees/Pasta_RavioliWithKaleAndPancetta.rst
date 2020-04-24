@@ -4,22 +4,24 @@
 Ravioli di Zucca with Kale and Pancetta
 =======================================
 
-For the ravioli:
+.. ingredients::
 
-- *300 g of pasta all'uovo*
-- *a butternut squash*
-- *1/2 cup breadcrumbs*
-- *3/4 cups freshly grated parmigiano*
-- *1 finely diced garlic clove*
-- *some chopped green onions*
-- *1 tsp maple syrup*
-- *salt and pepper to taste*
+   **For the ravioli:**
 
-For the sauce:
+   - 300 g of pasta all'uovo
+   - a butternut squash
+   - 1/2 cup breadcrumbs
+   - 3/4 cups freshly grated parmigiano
+   - 1 finely diced garlic clove
+   - some chopped green onions
+   - 1 tsp maple syrup
+   - salt and pepper to taste
 
-- *100 g pancetta*
-- *a bunch of kale or swiss chard*
-- *1/4 cup cream*
+   **For the sauce:**
+
+   - 100 g pancetta
+   - a bunch of kale or swiss chard
+   - 1/4 cup cream
 
 Bake the peeled and cubed squash in a 350F oven with some oil until soft.
 Blend with the rest of the ingredients, adding the breadcrumbs until a thik consistency is achieved

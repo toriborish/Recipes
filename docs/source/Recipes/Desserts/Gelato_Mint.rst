@@ -4,12 +4,14 @@
 Gelato alla Menta
 =====================
 
-- *490 g milk (2%)*
-- *250 g cream (36% fat)*
-- *135 g sugar*
-- *2 egg yolks*
-- *25 mint leaves*
-- *few drops of vanilla*
+.. ingredients::
+
+   - 490 g milk (2%)
+   - 250 g cream (36% fat)
+   - 135 g sugar
+   - 2 egg yolks
+   - 25 mint leaves
+   - few drops of vanilla
 
 Heat milk, cream and mint leaves to 180F, take off heat and cover.
 Steep for 10 minutes. Strain out the leaves (press the leave in the strainer to get the oils out).

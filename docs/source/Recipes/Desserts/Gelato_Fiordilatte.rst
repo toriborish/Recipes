@@ -4,11 +4,13 @@
 Gelato al Fiordilatte
 =====================
 
-- *500 g milk (2%)*
-- *200 g cream (36% fat)*
-- *100 g sugar*
-- *about 20 g honey*
-- *15 g cornstarch*
+.. ingredients::
+
+   - 500 g milk (2%)
+   - 200 g cream (36% fat)
+   - 100 g sugar
+   - about 20 g honey
+   - 15 g cornstarch
 
 Mix sugar, honey, cornstarch.
 Mix milk and cream in a pot.

@@ -4,19 +4,25 @@
 Hokkaido Milk Rolls
 =====================
 
--  *43 g bread flour*
--  *86 g milk*
+.. ingredients::
+
+   **For the tangzhong:**
+
+   - 43 g bread flour
+   - 86 g milk
+
+   **For the rolls:**
+
+   - 300 g bread flour
+   - 113 g milk
+   - 40 g butter
+   - 1 egg
+   - 5 g instant yeast
+   - 30 g sugar
+   - 6 g salt
 
 Combine milk and flour in a skillet and cook on medium heat until it forms a gelatinous paste
 (about 5 minutes).
-
--  *300 g bread flour*
--  *113 g milk*
--  *40 g butter*
--  *1 egg*
--  *5 g instant yeast*
--  *30 g sugar*
--  *6 g salt*
 
 Mix everything (including the paste from the previous step) with stand mixer at medium-high speed for 5 minutes (until it forms a ball).
 Make a ball, cover dough, let rise for 1-2 hours.

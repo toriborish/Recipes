@@ -4,13 +4,15 @@
 Pork Rillettes
 =====================
 
--  *1 kg pork shoulder, cut into chunks*
--  *2 cloves garlic*
--  *sprig rosemary*
--  *a couple bay leaves*
--  *zest of half of a lemon*
--  *2 cups of some kind of stock*
--  *salt and pepper to taste*
+.. ingredients::
+
+   - 1 kg pork shoulder, cut into chunks
+   - 2 cloves garlic
+   - sprig rosemary
+   - a couple bay leaves
+   - zest of half of a lemon
+   - 2 cups of some kind of stock
+   - salt and pepper to taste
 
 The day before, salt the pork and rest uncovered in fridge.
 Brown pork in a dutch oven. Add the rest of the ingredients, put ino 275 F oven for 2.5-3 hours.

@@ -4,12 +4,14 @@
 Peperonata
 =====================
 
-- *6 peppers (various colors!)*
-- *2 red onions*
-- *2 cloves of garlic*
-- *tiny rosemary sprig*
-- *1-2 cups tomato sauce (can be passata, canned tomatoes, grated and cooked freh tomatoes...)*
-- *splash of vinegar*
+.. ingredients::
+
+   - 6 peppers (various colors!)
+   - 2 red onions
+   - 2 cloves of garlic
+   - tiny rosemary sprig
+   - 1-2 cups tomato sauce (can be passata, canned tomatoes, grated and cooked freh tomatoes...)
+   - splash of vinegar
 
 Put the two garlic cloves (smashed) in a pot with 1-2 tablespoons to oil.
 Heat to medium heat, add the onions (sliced into medium julienne), cook until translucent.

@@ -4,11 +4,13 @@
 Tiramisù
 ====================
 
-- *4 eggs*
-- *80 g sugar*
-- *450 g mascarpone*
-- *250 g savoiardi*
-- *1 cup coffee*
+.. ingredients::
+
+   - 4 eggs
+   - 80 g sugar
+   - 450 g mascarpone
+   - 250 g savoiardi
+   - 1 cup coffee
 
 Whip the yolks with the sugar until creamy and almost white. Add the mascarpone, incorporate and continue whipping until creamy and smooth.
 Meanwhile, whip the whites until hard peaks. Fold the whites in the other mixture.

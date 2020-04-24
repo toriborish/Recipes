@@ -11,7 +11,11 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 
 import os
-import sys
+import sphinx_bootstrap_theme
+from docutils.parsers.rst.directives.admonitions import BaseAdmonition
+from docutils import nodes
+from docutils.parsers.rst.roles import set_classes
+
 # sys.path.insert(0, os.path.abspath('.'))
 
 # Hack for lacking git-lfs support on ReadTheDocs
@@ -70,12 +74,61 @@ master_doc = 'index'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+
+html_theme_options = {
+    'source_link_position': "nav",
+    'bootswatch_theme': "paper",
+    'navbar_pagenav': False,
+    'navbar_site_name': "Chapters",
+    'navbar_sidebarrel': True,
+    'bootstrap_version': "3",
+    'globaltoc_depth': -1
+    }
+
+html_theme = 'bootstrap'
+html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+
+class Ingredients(BaseAdmonition):
+
+    required_arguments = 0
+    node_class = nodes.admonition
+
+    def run(self):
+        set_classes(self.options)
+        self.assert_has_content()
+        text = '\n'.join(self.content)
+        admonition_node = self.node_class(text, **self.options)
+        self.add_name(admonition_node)
+        if self.node_class is nodes.admonition:
+            title_text = 'Ingredients'
+            textnodes, messages = self.state.inline_text(title_text,
+                                                         self.lineno)
+            title = nodes.title(title_text, '', *textnodes)
+            title.source, title.line = (
+                    self.state_machine.get_source_and_line(self.lineno))
+            admonition_node += title
+            admonition_node += messages
+            if 'classes' not in self.options:
+                admonition_node['classes'] += ['admonition-' +
+                                               nodes.make_id(title_text)]
+        self.state.nested_parse(self.content, self.content_offset,
+                                admonition_node)
+        return [admonition_node]
+
+
+def setup(app):
+    print(os.getcwd())
+    app.add_stylesheet("source/_static/styles.css")
+    app.add_stylesheet("_static/styles.css")
+    app.add_stylesheet("styles.css")
+    app.add_directive('ingredients', Ingredients)
+
 
 # -- Options for LaTeX output ---------------------------------------------
 
