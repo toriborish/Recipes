@@ -73,7 +73,7 @@ master_doc = 'index'
 #
 
 html_theme_options = {
-    'source_link_position': "footer",
+    'source_link_position': "nav",
     'bootswatch_theme': "paper",
     'navbar_pagenav': False,
     'navbar_site_name': "Chapters",
