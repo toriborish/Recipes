@@ -48,6 +48,8 @@ footer a{
     border-color: gainsboro !important;
     border-style: solid !important;
     border-width: 0px 0px 0px 8px !important;
+    padding: 0px !important;
+    padding-left: 12px !important;
 }
 
 .admonition-ingredients > .admonition-title {
