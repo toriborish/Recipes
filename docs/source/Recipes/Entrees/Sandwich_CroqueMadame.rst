@@ -22,18 +22,23 @@ Croque Madame
 	- optionally you can add a bay leaf to the warm milk before adding it to the bechamel
 	- scant 1/4 teaspoon ground nutmeg (fresh grated is ideal)
 
-For the bechamel: warm the milk (stop before boiling, possibly add bay leaf and nutmeg). Heat the butter in a separate pot.
-Add flour to butter and whisk. Cook a few minutes. Add milk in batches whisking.
-Simmer for a few minutes.
+.. procedure::
 
-Spread mustard on each slice of bread. Grate cheese on the bottom slice, top with ham.
-Grate more cheese on top. Top with other slice, press slightly. Cook in a pan with butter, both sides.
-Place in sheet tray. Pour bechamel, grate more cheese. Broil until ready.
+	For the bechamel: warm the milk (stop before boiling, possibly add bay leaf and nutmeg). Heat the butter in a separate pot.
+	Add flour to butter and whisk. Cook a few minutes. Add milk in batches whisking.
+	Simmer for a few minutes.
 
-Fry egg. Put egg on top of sandwitch.
+	Spread mustard on each slice of bread. Grate cheese on the bottom slice, top with ham.
+	Grate more cheese on top. Top with other slice, press slightly. Cook in a pan with butter, both sides.
+	Place in sheet tray. Pour bechamel, grate more cheese. Broil until ready.
+
+	Fry egg. Put egg on top of sandwitch.
+
+.. rubric:: References
+
+`Source <https://www.youtube.com/watch?v=lUOxE_NdIwE>`_
 
 .. note::
 
 	Tried this with weird pancetta sticks and caramelized onions instead of ham, and poched instead of fried egg. Topped with chopped parsley and fermented lemon peel. Would be better with some vegetable to make it lighter, maybe grilled eggplant.
 
-`Source <https://www.youtube.com/watch?v=lUOxE_NdIwE>`_

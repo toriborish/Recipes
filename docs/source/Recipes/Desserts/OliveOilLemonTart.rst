@@ -5,7 +5,7 @@ Lemon–Olive Oil Tart
 ====================
 .. ingredients::
 
-   **For the tart shell:**
+   For the tart shell:
 
    - 192 g AP flour
    - 60 g sugar
@@ -13,7 +13,7 @@ Lemon–Olive Oil Tart
    - 30 g water
    - 1 pinch of salt
 
-   **For the filling:**
+   For the filling:
 
    - 3 eggs
    - 3 eggs yolks

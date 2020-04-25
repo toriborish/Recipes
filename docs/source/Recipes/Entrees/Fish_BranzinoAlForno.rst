@@ -23,14 +23,16 @@ Branzino al forno
    - salt
    - fermented lemon
 
+.. procedure::
 
+   Scale and clean the fish. Season inside and outside with salt and oil.
+   Inset 3 thin lemon rounds, some parsley and rosemary in the cavity. Bake
+   vertically (propped up by lemons?) at 430/450 F.
 
-Scale and clean the fish. Season inside and outside with salt and oil.
-Inset 3 thin lemon rounds, some parsley and rosemary in the cavity. Bake
-vertically (propped up by lemons?) at 430/450 F.
+   For the sauce, chop parsley, garlic znd lemon zest, mix with oil and
+   salt.
 
-For the sauce, chop parsley, garlic znd lemon zest, mix with oil and
-salt.
+.. rubric:: References
 
 `Source <https://www.marthastewart.com/1536623/roasted-branzino-lemon-and-thyme>`_
 

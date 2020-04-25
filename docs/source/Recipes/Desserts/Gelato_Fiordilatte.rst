@@ -12,11 +12,13 @@ Gelato al Fiordilatte
    - about 20 g honey
    - 15 g cornstarch
 
-Mix sugar, honey, cornstarch.
-Mix milk and cream in a pot.
-Heat to 40C, add the sugar mixture.
-Heat to 75C, maintaing the temperature for 3 minutes.
-Cool down quickly in ice bath, let rest in the fridge overnight.
+.. procedure::
+
+   Mix sugar, honey, cornstarch.
+   Mix milk and cream in a pot.
+   Heat to 40C, add the sugar mixture.
+   Heat to 75C, maintaing the temperature for 3 minutes.
+   Cool down quickly in ice bath, let rest in the fridge overnight.
 
 .. rubric:: References
 

@@ -14,12 +14,14 @@ Pork Rillettes
    - 2 cups of some kind of stock
    - salt and pepper to taste
 
-The day before, salt the pork and rest uncovered in fridge.
-Brown pork in a dutch oven. Add the rest of the ingredients, put ino 275 F oven for 2.5-3 hours.
-Take out the cooked pork (should be very tender and almost fall apart). Shred the pork.
-Continue reducing the liquid. Once reduced, add some of the liquid and fat to the shredded pork.
-Salt and pepper to taste. Pack tightly in a jar (small ones are better). Top with some of the fat.
-Store in fridge for up to a week.
+.. procedure::
+
+   The day before, salt the pork and rest uncovered in fridge.
+   Brown pork in a dutch oven. Add the rest of the ingredients, put ino 275 F oven for 2.5-3 hours.
+   Take out the cooked pork (should be very tender and almost fall apart). Shred the pork.
+   Continue reducing the liquid. Once reduced, add some of the liquid and fat to the shredded pork.
+   Salt and pepper to taste. Pack tightly in a jar (small ones are better). Top with some of the fat.
+   Store in fridge for up to a week.
 
 .. rubric:: References
 

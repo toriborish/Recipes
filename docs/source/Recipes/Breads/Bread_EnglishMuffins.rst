@@ -14,12 +14,14 @@ English Muffins
    - 25 g sugar
    - 9 g salt
 
-Mix everything with stand mixer at medium-high speed for 5 minutes (until it forms a ball).
-Make a ball, cover dough, let rise for 1-2 hours.
-Coat cast iron pan with oil, sprinkle with cornmeal or similar.
-Deflate the dough, divide in 16 parts, shape into balls and place them on the pan.
-Let rise for 20 mins.
-Cook until ready. If burning, move into a 350 F oven.
+.. procedure::
+
+   Mix everything with stand mixer at medium-high speed for 5 minutes (until it forms a ball).
+   Make a ball, cover dough, let rise for 1-2 hours.
+   Coat cast iron pan with oil, sprinkle with cornmeal or similar.
+   Deflate the dough, divide in 16 parts, shape into balls and place them on the pan.
+   Let rise for 20 mins.
+   Cook until ready. If burning, move into a 350 F oven.
 
 .. rubric:: References
 

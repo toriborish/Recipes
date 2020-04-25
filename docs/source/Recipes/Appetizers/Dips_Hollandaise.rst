@@ -11,9 +11,11 @@ Hollandaise
    - pinch of salt
    - 1 stick of butter
 
-Whisk the eggs and most of the lemon juice.
-On a double boiler, whisk while slowly streaming the melted butter in.
-Add the remaining lemon juice and salt to taste.
+.. procedure::
+
+   Whisk the eggs and most of the lemon juice.
+   On a double boiler, whisk while slowly streaming the melted butter in.
+   Add the remaining lemon juice and salt to taste.
 
 .. rubric:: References
 

@@ -10,9 +10,12 @@ Zabaione
    - 40-120g sugar
    - 80-200g sweet wine/beer
 
+.. procedure::
 
-Mix yolks and sugar until light in color. Add liquid and cook onto double boiler until thickened.
-(Possibly 83C????)
+   Mix yolks and sugar until light in color. Add liquid and cook onto double boiler until thickened.
+   (Possibly 83C????)
+
+.. rubric:: References
 
 `Source 1 <https://blog.giallozafferano.it/martolinaincucina/zabaione-alla-birra/>`_
 
