@@ -6,7 +6,7 @@ Ravioli di Zucca with Kale and Pancetta
 
 .. ingredients::
 
-   **For the ravioli:**
+   For the ravioli:
 
    - 300 g of pasta all'uovo
    - a butternut squash
@@ -17,7 +17,7 @@ Ravioli di Zucca with Kale and Pancetta
    - 1 tsp maple syrup
    - salt and pepper to taste
 
-   **For the sauce:**
+   For the sauce:
 
    - 100 g pancetta
    - a bunch of kale or swiss chard

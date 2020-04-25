@@ -6,7 +6,7 @@ Branzino al forno
 
 .. ingredients::
 
-   **Main:**
+   Main:
 
    - 1 branzino
    - oil
@@ -15,7 +15,7 @@ Branzino al forno
    - rosemary
    - 1 lemon
 
-   **Garlic parsley sauce:**
+   Garlic parsley sauce:
 
    - garlic
    - parsley

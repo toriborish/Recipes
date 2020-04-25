@@ -41,9 +41,8 @@ footer a{
 
 .admonition-ingredients {
     color: #444444 !important;
+    font-weight: bold;
     background-color: white !important;
-    font-style: italic !important;
-
     border-radius: 4px !important;
     border-color: gainsboro !important;
     border-style: solid !important;
@@ -52,11 +51,13 @@ footer a{
     padding-left: 12px !important;
 }
 
+.admonition-ingredients > ul {
+    font-style: italic !important;
+    font-weight: normal;
+}
+
 .admonition-ingredients > .admonition-title {
-    color: #444444 !important;
-    background-color: white !important;
     font-size: 18px !important;
-    font-style: normal !important;
 }
 
 .admonition-title::before {

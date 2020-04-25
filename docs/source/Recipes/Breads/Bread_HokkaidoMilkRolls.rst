@@ -6,12 +6,12 @@ Hokkaido Milk Rolls
 
 .. ingredients::
 
-   **For the tangzhong:**
+   For the tangzhong:
 
    - 43 g bread flour
    - 86 g milk
 
-   **For the rolls:**
+   For the rolls:
 
    - 300 g bread flour
    - 113 g milk

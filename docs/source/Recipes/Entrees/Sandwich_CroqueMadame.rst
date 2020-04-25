@@ -6,7 +6,7 @@ Croque Madame
 
 .. ingredients::
 
-	**For the sandwitch:**
+	For the sandwitch:
 
 	- 2 slices bread
 	- 2 ounces deli ham (french is recommended)
@@ -14,7 +14,7 @@ Croque Madame
 	- 2 teaspoons whole grain mustard
 	- fresh cracked black pepper to taste
 
-	**For the Bechamel (3 - 4 sandwiches):**
+	For the Bechamel (3 - 4 sandwiches):
 
 	- 3 tablespoons 45 g all purpose flour
 	- 4 tablespoons 70 g unsalted butter
