@@ -19,10 +19,6 @@ footer a{
     color: var(--link-color) !important;
 }
 
-.wy-breadcrumbs a {
-    color: var(--link-color) !important;
-}
-
 .document a {
     color: var(--link-color) !important;
 }
