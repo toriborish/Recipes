@@ -13,6 +13,7 @@
 import os
 import sphinx_bootstrap_theme
 from docutils.parsers.rst.directives.admonitions import BaseAdmonition
+from docutils.parsers.rst import Directive
 from docutils import nodes
 from docutils.parsers.rst.roles import set_classes
 
@@ -97,6 +98,7 @@ html_static_path = ['_static']
 class Ingredients(BaseAdmonition):
 
     required_arguments = 0
+    optional_arguments = 0
     node_class = nodes.admonition
 
     def run(self):
@@ -115,19 +117,38 @@ class Ingredients(BaseAdmonition):
             admonition_node += title
             admonition_node += messages
             if 'classes' not in self.options:
-                admonition_node['classes'] += ['admonition-' +
-                                               nodes.make_id(title_text)]
+                admonition_node['classes'] += ['ingredients']
         self.state.nested_parse(self.content, self.content_offset,
                                 admonition_node)
+        print(admonition_node, "\n")
+        return [admonition_node]
+
+
+class Procedure(BaseAdmonition):
+
+    required_arguments = 0
+    optional_arguments = 0
+    node_class = nodes.admonition
+
+    def run(self):
+        set_classes(self.options)
+        self.assert_has_content()
+        text = '\n'.join(self.content)
+        admonition_node = self.node_class(text, **self.options)
+        self.add_name(admonition_node)
+        if self.node_class is nodes.admonition:
+            if 'classes' not in self.options:
+                admonition_node['classes'] += ['procedure']
+        self.state.nested_parse(self.content, self.content_offset,
+                                admonition_node)
+        print(admonition_node, "\n")
         return [admonition_node]
 
 
 def setup(app):
-    print(os.getcwd())
-    app.add_stylesheet("source/_static/styles.css")
-    app.add_stylesheet("_static/styles.css")
     app.add_stylesheet("styles.css")
     app.add_directive('ingredients', Ingredients)
+    app.add_directive('procedure', Procedure)
 
 
 # -- Options for LaTeX output ---------------------------------------------
