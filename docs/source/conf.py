@@ -13,7 +13,6 @@
 import os
 import sphinx_bootstrap_theme
 from docutils.parsers.rst.directives.admonitions import BaseAdmonition
-from docutils.parsers.rst import Directive
 from docutils import nodes
 from docutils.parsers.rst.roles import set_classes
 
@@ -120,7 +119,6 @@ class Ingredients(BaseAdmonition):
                 admonition_node['classes'] += ['ingredients']
         self.state.nested_parse(self.content, self.content_offset,
                                 admonition_node)
-        print(admonition_node, "\n")
         return [admonition_node]
 
 
@@ -141,7 +139,6 @@ class Procedure(BaseAdmonition):
                 admonition_node['classes'] += ['procedure']
         self.state.nested_parse(self.content, self.content_offset,
                                 admonition_node)
-        print(admonition_node, "\n")
         return [admonition_node]
 
 
