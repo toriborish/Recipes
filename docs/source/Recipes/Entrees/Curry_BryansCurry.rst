@@ -31,4 +31,4 @@ Bryan's Curry
 .. note::
 
 	Tried this with paneer, tofu, potatoes, chickpeas. Anything seems to work ok.
-	Substituted the ground cashews with ground almods and almond flour, also seems to work.
+	Substituted the ground cashews with ground almonds and almond flour, also seems to work.
