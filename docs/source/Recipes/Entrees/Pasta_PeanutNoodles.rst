@@ -29,7 +29,7 @@ Peanut Noodles
 
 .. rubric:: References
 
-   This recipe comes from Talia.
+This recipe comes from Talia.
 
 .. note::
 
