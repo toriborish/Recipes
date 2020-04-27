@@ -7,15 +7,17 @@ Peanut Noodles
 .. ingredients::
 
    Sauce:
+
    - 1/2 cup creamy peanut butter
    - 1/4 cup soy sauce
-   - 3 Tblsp sesame oil
-   - 2 Tblsp vegetable oil (I always substitute with either sesame oil or chili oil)
+   - 3 tbsp sesame oil
+   - 2 tbsp vegetable oil (I always substitute with either sesame oil or chili oil)
    - at least a tablespoon of grated ginger (I use a microplane)
    - at least 6 gloves of garlic, pressed
    - optional: crushed red pepper flakes (if not using chili oil)
 
    Other:
+
    - 1 pound pasta (or however much you want at a given time)
    - scallions or green onions or something similar for garnishing
 
