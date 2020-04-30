@@ -1,0 +1,25 @@
+{% extends "!navbar.html" %}
+
+{% macro button(name, links) -%}
+  <li class="dropdown chapter">
+    <a role="button"
+       id="dLabelChapter"
+       data-toggle="dropdown"
+       data-target="#"
+       href="../../index.html"> {{name}} <b class="caret"></b>
+    </a>
+    <ul class="dropdown-menu chapter"
+        role="menu"
+        aria-labelledby="dLabelChapter">
+      <ul>
+        {% for title, link in links.items() %} <li class="toctree-l2"><a class="reference internal" href={{pathto(link, 1)}}> {{ title }} </a></li>  {% endfor %}
+      </ul>
+    </ul>
+  </li>
+{%- endmacro %}
+
+{% block navbartoc %}{% for title, links in buttonData.items() %}{{ button (title, links) }}{% endfor %}
+  {% if theme_navbar_pagenav %}
+    {% include "navbartoc.html" %}
+  {% endif %}
+{% endblock %}

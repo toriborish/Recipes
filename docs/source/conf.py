@@ -76,11 +76,11 @@ master_doc = 'index'
 #
 
 html_theme_options = {
-    'source_link_position': "nav",
+    'source_link_position': "footer",
     'bootswatch_theme': "paper",
     'navbar_pagenav': False,
     'navbar_site_name': "Chapters",
-    'navbar_sidebarrel': True,
+    'navbar_sidebarrel': False,
     'bootstrap_version': "3",
     'globaltoc_depth': -1
     }
@@ -142,10 +142,24 @@ class Procedure(BaseAdmonition):
         return [admonition_node]
 
 
+def add_buttonsData_to_context(app, pagename, templatename, context, doctree):
+
+    titles = dict(app.env.titles.items())
+    toctree_items = dict(app.env.toctree_includes.items())
+    main_index = toctree_items['index']
+    button_data = {
+        titles[chapter].astext():
+            {titles[item].astext(): item + '.html' for item in toctree_items[chapter]}
+        for chapter in main_index[1:]
+    }
+    context['buttonData'] = button_data
+
+
 def setup(app):
     app.add_stylesheet("styles.css")
     app.add_directive('ingredients', Ingredients)
     app.add_directive('procedure', Procedure)
+    app.connect("html-page-context", add_buttonsData_to_context)
 
 
 # -- Options for LaTeX output ---------------------------------------------
