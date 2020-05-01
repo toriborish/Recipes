@@ -17,7 +17,7 @@ Pork Rillettes
 .. procedure::
 
    The day before, salt the pork and rest uncovered in fridge.
-   Brown pork in a dutch oven. Add the rest of the ingredients, put ino 275 F oven for 2.5-3 hours.
+   Brown pork in a dutch oven. Add the rest of the ingredients, put in a 275 F oven for 2.5-3 hours.
    Take out the cooked pork (should be very tender and almost fall apart). Shred the pork.
    Continue reducing the liquid. Once reduced, add some of the liquid and fat to the shredded pork.
    Salt and pepper to taste. Pack tightly in a jar (small ones are better). Top with some of the fat.
@@ -31,5 +31,5 @@ Pork Rillettes
 
 .. note::
 
-   The lemon zest was great! Didn't end up using all the liquid, the remainig stock was
+   The lemon zest was great! Didn't end up using all the liquid, the remaining stock was
    very dense and flavorful. More smaller jars rather than a single big one would have been better.

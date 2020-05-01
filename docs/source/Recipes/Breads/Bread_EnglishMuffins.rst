@@ -20,7 +20,7 @@ English Muffins
    Make a ball, cover dough, let rise for 1-2 hours.
    Coat cast iron pan with oil, sprinkle with cornmeal or similar.
    Deflate the dough, divide in 16 parts, shape into balls and place them on the pan.
-   Let rise for 20 mins.
+   Let rise for 20 minutes.
    Cook until ready. If burning, move into a 350 F oven.
 
 .. rubric:: References

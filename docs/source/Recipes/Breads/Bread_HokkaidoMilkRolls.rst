@@ -30,7 +30,7 @@ Hokkaido Milk Rolls
    Make a ball, cover dough, let rise for 1-2 hours.
    Deflate the dough, divide in 4 parts, shape into flat rectangles and roll them up.
    Place the rolls in a loaf pan.
-   Let rise for 40 mins - 1 hour. Egg wash.
+   Let rise for 40 minutes - 1 hour. Egg wash.
    Cook in a 350F oven until ready (25 minutes). Add a container with water in the oven for the first 5-10 minutes.
 
 .. rubric:: References

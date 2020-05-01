@@ -24,7 +24,7 @@ Lemon–Olive Oil Tart
    - 56 g olive oil
 
 Preheat oven to 350 F. Mix flour, sugar salt, oil and water to form uniform dough.
-Press that in a 9 inch tart pan.bake for 30 - 45 minutees.
+Press that in a 9 inch tart pan.bake for 30 - 45 minutes.
 
 Whisk sugar flour and salt in medium saucepan. Whisk in eggs and yolks. Whisk in lemon zest and juice. Cook while stirring until reaches 160 F.
 Whisk in oil off heat.

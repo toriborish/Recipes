@@ -23,7 +23,7 @@ Whole Wheat Sourdough
 
    Let raise for 3-6 hours (or overnight in the fridge), folding three-four times in the first hour.
 
-   Divide and let rest on a lightly floured surface for 10-15 mins. Stretch and fold the four corners of the dough onto itself
+   Divide and let rest on a lightly floured surface for 10-15 minutes. Stretch and fold the four corners of the dough onto itself
    (I usually do east-west-north-south). Cover with an inverted bowl.
    After 15 minutes fold again if looking excessively floppy, if not,
    invert and by dragging the dough seam side down around on the board make into a taut ball (do not squish it though, you still want the bubbles).

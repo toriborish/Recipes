@@ -34,7 +34,7 @@ Kue Nastar (Indonesian Pineapple Cookies)
 
    Puree pineapple chunks using food processor or a blender.  
    Transfer to sauce pan, add sugar, then cook on medium heat until all liquid has evaporated.
-   Lower the heat to low, continue to cook until it has thinkened and is a little drier than the consistency of regular jam.
+   Lower the heat to low, continue to cook until it has thickened and is a little drier than the consistency of regular jam.
    Remove from heat, cool completely.
 
    Place pastry ingredients in a food processor, pulse for a few seconds until it is starting to come together.

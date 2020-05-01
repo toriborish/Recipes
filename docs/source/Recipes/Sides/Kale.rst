@@ -13,7 +13,7 @@ Soy Sauce Kale
 
 .. procedure::
 
-   In a skillet, heat up the oil. Add the smashed garlic. Cook 2 mins until
-   golden. Cook 3-5 mins until wilted and slightly browned. Add soy sauce
+   In a skillet, heat up the oil. Add the smashed garlic. Cook 2 minutes until
+   golden. Cook 3-5 minutes until wilted and slightly browned. Add soy sauce
    and lemon juice. Cook until the liquids mostly evaporate and the kale is
    more wilted and darker.

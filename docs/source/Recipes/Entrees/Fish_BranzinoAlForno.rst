@@ -29,7 +29,7 @@ Branzino al forno
    Inset 3 thin lemon rounds, some parsley and rosemary in the cavity. Bake
    vertically (propped up by lemons?) at 430/450 F.
 
-   For the sauce, chop parsley, garlic znd lemon zest, mix with oil and
+   For the sauce, chop parsley, garlic and lemon zest, mix with oil and
    salt.
 
 .. rubric:: References

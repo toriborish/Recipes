@@ -6,7 +6,7 @@ Pappa col Pomodoro
 
 .. ingredients::
 
-   - about 2 cups tomato sauce (can be passata, canned tomatoes, grated and cooked freh tomatoes...)
+   - about 2 cups tomato sauce (can be passata, canned tomatoes, grated and cooked fresh tomatoes...)
    - 200-300 g stale bread
    - 1 red onion
    - 2 cloves of garlic
@@ -16,7 +16,7 @@ Pappa col Pomodoro
 
    Slice the bread into thin slices, dry in the oven (300F?).
    Slice the onion into thick (3mm slices). Smash the garlic in its peel.
-   Add 2 tablesoons of oil to a pot on medium-low heat. Add onion and garlic, sprinkle a pinch of salt.
+   Add 2 tablespoons of oil to a pot on medium-low heat. Add onion and garlic, sprinkle a pinch of salt.
    The onion just needs to turn translucent and sweat, not brown.
    Add the tomato sauce, continue cooking for 5 minutes or so.
    Put the bread slices on top of the tomato. Cook covered for a few minutes.

@@ -3,8 +3,8 @@ Introduction
 
 What is this?
 -------------
-This is a collection of recipes I cook reasonably regulary.
-Some recipes act as placeholders and just contain liks to recipes I liked.
+This is a collection of recipes I cook reasonably regularly.
+Some recipes act as placeholders and just contain links to recipes I liked.
 At some point the recipe will actually be typed out.
 
 The source is hosted on `GitHub <https://github.com/carlogico/Recipes>`_,

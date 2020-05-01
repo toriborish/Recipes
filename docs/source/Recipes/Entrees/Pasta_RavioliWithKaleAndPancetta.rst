@@ -26,7 +26,7 @@ Ravioli di Zucca with Kale and Pancetta
 .. procedure::
 
    Bake the peeled and cubed squash in a 350F oven with some oil until soft.
-   Blend with the rest of the ingredients, adding the breadcrumbs until a thik consistency is achieved
+   Blend with the rest of the ingredients, adding the breadcrumbs until a thick consistency is achieved
    (something like ricotta).
 
    Fill the ravioli (see links in :doc:`Pasta_PastaAllUovo` for shaping).
@@ -34,7 +34,7 @@ Ravioli di Zucca with Kale and Pancetta
    Cut the pancetta very thin slices, then make 5 x 3 cm rectangles.
    Put the pancetta in a skillet with a little bit of oil. Slowly warm up the skillet to medium heat.
    Once the pancetta has released enough fat and is slightly crispy, add the kale to the skillet.
-   Drop the ravioli in the boiling, salted water, cokk for 2-5 minutes, depending how thick your pasta is.
+   Drop the ravioli in the boiling, salted water, cook for 2-5 minutes, depending how thick your pasta is.
    One minute before draining them, add the cream to the skillet. Drain the ravioli, and add them to the skillet.
    Cook for another minute, add grated parmigiano and pepper to taste.
 
