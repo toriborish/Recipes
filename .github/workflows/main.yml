@@ -47,9 +47,9 @@ jobs:
         git reset --hard  $(git rev-list --max-parents=0 HEAD)
         cd ..
         cp -r docs/build/html/* gh-pages/
-        mkdir gh-pages/_Downloads
-        cp docs/build/latex/recipes.pdf gh-pages/_Downloads/recipes.pdf
-        cp docs/build/epub/Recipes.epub gh-pages/_Downloads/Recipes.epub
+        mkdir gh-pages/_downloads
+        cp docs/build/latex/recipes.pdf gh-pages/_downloads/recipes.pdf
+        cp docs/build/epub/Recipes.epub gh-pages/_downloads/Recipes.epub
         cd gh-pages
         touch .nojekyll
         git config --local user.email "action@github.com"
