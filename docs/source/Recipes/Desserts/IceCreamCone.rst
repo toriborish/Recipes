@@ -4,7 +4,7 @@
 Ice Cream Cone
 =====================
 
-I tried two recipes and am still figuring out which I like best.
+I tried two recipes as my first attempt at making ice cream cones.  See notes below.  These need to be iterated on.
 
 Recipe 1
 -----------
@@ -43,7 +43,7 @@ Source: Modified from the book *The Ultimate Ice Cream Book* by Bruce Weinstein.
    Using what I learned when I made fortune cookies when I was younger, I used a pair of small cotton gloves to handle the hot cookies as I shaped them, and it worked well.
    This would be a lot easier with the appropriate cone mold.
    It would also be fun to get a waffle cone maker at some point.
-   Carlo liked this recipe better than the other because it was sweet and tasted like what he thinks cones should taste like.
+   Without ice cream inside the cones, Carlo liked this recipe better than the other because it was sweet and tasted like what he thinks cones should taste like.  However, once there was ice cream inside, he said that maybe it was too sweet and crunchy, and he prefered the other one.
 
 Recipe 2
 ----------
@@ -81,6 +81,6 @@ Source: Modified from the book *The Perfect Scoop* by David Lebovitz.
    The first batch of this recipe was way to clumpy and they cracked as I was rolling them.
    I then added some more egg whites to the remaining batter until it was the consistency of the previous recipe and it spread well.  Those turned out nice and smooth.
    If I make these again, I would either cut down on the flour, or add additional egg whites or milk at the beginning.
-   Carlo thought these were too doughy.
-   Tori liked that these were less sweet.
-   Current plan for next time: make the first recipe, but cut down on the sugar.
+   Carlo thought these were too doughy without ice cream, but liked them when they had ice cream inside.
+   Tori liked that these were less sweet.  They were a little thick/doughy at a couple of places in the middle, but that could probably be altered by making the dough thinner before baking.
+   Current plan for next time: make a combo of the recipes- probably more like this one, but add extra milk to thin it down to the right (easily spreadable) consistency.
