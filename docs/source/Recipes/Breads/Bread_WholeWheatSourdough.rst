@@ -36,3 +36,9 @@ Whole Wheat Sourdough
    Bake covered for 25 minutes. Reduce temperature to 450F.
    Bake for 25-30 minutes more until it looks baked to your taste.
    Put on cooling rack and wait until room temperature, 1-2 hours.
+
+.. rubric:: References
+
+https://www.youtube.com/watch?v=HlJEjW-QSnQ
+FSWY
+Tartine
