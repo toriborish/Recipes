@@ -31,6 +31,11 @@ Recipe 1
    Bake for around 10-15 minutes until lightly browned.
    Remove the cookies one at a time and immediately roll into a cone shape.
 
+.. image:: ../../Images/Cone1.jpg
+   :width: 300
+   :align: center
+   :alt: Cone picture
+
 .. rubric:: References
 
 Source: Modified from the book *The Ultimate Ice Cream Book* by Bruce Weinstein.
@@ -67,6 +72,11 @@ Recipe 2
    Repeat until cookie sheet is full.
    Bake for 10-15 minutes until lightly browned.
    Remove the cookies one at a time and immediately roll into a cone shape.
+
+.. image:: ../../Images/Cone2.jpg
+   :width: 300
+   :align: center
+   :alt: Cone picture
 
 .. rubric:: References
 
