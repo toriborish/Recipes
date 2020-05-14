@@ -16,4 +16,5 @@ Entrees
    Fish*
    Beef*
    Pork*
+   Pie*
 
