@@ -30,3 +30,5 @@ Gelato alla Menta
 .. note::
 
    This time it was a little icy.  It's been better before.
+
+.. sectionauthor:: Tori

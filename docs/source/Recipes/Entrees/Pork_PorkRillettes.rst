@@ -32,4 +32,6 @@ Pork Rillettes
 .. note::
 
    The lemon zest was great! Didn't end up using all the liquid, the remaining stock was
-   very dense and flavorful. More smaller jars rather than a single big one would have been better.
+   very dense and flavorful. More, smaller jars rather than a single big one would have been better.
+
+.. sectionauthor:: Carlo

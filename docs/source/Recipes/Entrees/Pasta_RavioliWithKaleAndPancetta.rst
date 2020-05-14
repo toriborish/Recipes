@@ -41,3 +41,5 @@ Ravioli di Zucca with Kale and Pancetta
 .. note::
 
    Maybe pecorino would be better in the filling?
+
+.. sectionauthor:: Carlo

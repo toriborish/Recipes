@@ -27,3 +27,5 @@ Peperonata
 .. rubric:: References
 
 `Source <https://www.ilcuoreinpentola.it/ricette/antipasti/peperonata-classica/>`_
+
+.. sectionauthor:: Carlo

@@ -34,3 +34,5 @@ This recipe comes from Talia.
 .. note::
 
    This proportions can be altered to taste.  I usually make the recipe to use for one meal and then freeze the rest, so I only cook however much pasta I want on a given day.  Even when frozen, the sauce is still soft enough to scoop some of it out.
+
+.. sectionauthor:: Tori

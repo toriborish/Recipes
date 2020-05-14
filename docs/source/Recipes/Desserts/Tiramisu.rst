@@ -21,5 +21,8 @@ Tiramisù
    Spoon in a layer of the cream. Make another layer of coffee soaked savoiardi. Add another layer of cream.
    Top with a layer of unsweetened cocoa powder. Refrigerate for 1-2 hours before serving.
 
+.. rubric:: References
 
 `Souce <https://ricetta.it/tiramisu>`_
+
+.. sectionauthor:: Carlo

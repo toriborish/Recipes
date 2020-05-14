@@ -42,3 +42,5 @@ Hokkaido Milk Rolls
    in the stand mixer, before adding the butter, the dough seemed too dry.
    Add water but overshot it. Added more flour...
    I think the recipe can take a bit more liquid (maybe 5-10 g?)
+
+.. sectionauthor:: Carlo

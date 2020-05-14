@@ -58,6 +58,8 @@ release = '0.0.1'
 # ones.
 extensions = []
 
+show_authors = True
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 

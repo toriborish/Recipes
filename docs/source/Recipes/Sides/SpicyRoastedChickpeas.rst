@@ -28,3 +28,5 @@ Indian-Spiced Roasted Chickpeas
 
 .. note::
    Pretty good, cooked a bit too little. More crunch would have been nice
+
+.. sectionauthor:: Carlo

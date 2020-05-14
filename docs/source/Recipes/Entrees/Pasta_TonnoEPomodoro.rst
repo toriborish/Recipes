@@ -33,3 +33,5 @@ Pasta al Tonno e Pomodoro
 
    Kalamata olives make a great addition to the sauce (to be added after the tuna),
    unfortunately Tori doesn't like them...
+
+.. sectionauthor:: Carlo

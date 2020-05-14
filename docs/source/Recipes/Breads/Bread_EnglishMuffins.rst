@@ -31,3 +31,5 @@ English Muffins
 
    Halved the recipe, but not the egg... Dough was extremely wet.
    The proofing made the dough ball bigger than expected.
+
+.. sectionauthor:: Carlo

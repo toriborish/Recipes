@@ -38,3 +38,5 @@ Zabaione
 
    ended up with 3.5 egg yolks, ~ 60 g sugar and about 80 g beer. Seemed a bit too yeasty. Might be better with wine (possibly less),
    maybe some citrus zest somewhere.
+
+.. sectionauthor:: Carlo

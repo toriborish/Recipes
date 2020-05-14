@@ -43,3 +43,5 @@ Pasta al Fumé
 What's the most religious cheese?
 
 Swiss, because it's holy.
+
+.. sectionauthor:: Carlo

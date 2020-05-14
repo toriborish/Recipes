@@ -40,3 +40,5 @@ Pour curd into the tart shell and return to oven. Bake 8 -12 minutes.
 
    The filling was delicious (maybe could have done with slightly less sugar), but the tart shell wasn't great
    (kind of had a very strong flavor, and was a bit too crumbly).
+
+.. sectionauthor:: Carlo

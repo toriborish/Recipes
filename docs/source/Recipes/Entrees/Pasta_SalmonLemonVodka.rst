@@ -21,4 +21,6 @@ Pasta al Salmone
    Add the salmon and a little bit of vodka (say 3 tbsp). Quickly mix until the salmon is barely cooked.
    Plate, add more salmon bites on top and a generous amount of freshly cracked pepper
 
+.. sectionauthor:: Carlo
+
 

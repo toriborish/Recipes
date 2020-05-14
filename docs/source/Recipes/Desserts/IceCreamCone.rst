@@ -94,3 +94,5 @@ Source: Modified from the book *The Perfect Scoop* by David Lebovitz.
    Carlo thought these were too doughy without ice cream, but liked them when they had ice cream inside.
    Tori liked that these were less sweet.  They were a little thick/doughy at a couple of places in the middle, but that could probably be altered by making the dough thinner before baking.
    Current plan for next time: make a combo of the recipes- probably more like this one, but add extra milk to thin it down to the right (easily spreadable) consistency.
+
+.. sectionauthor:: Tori

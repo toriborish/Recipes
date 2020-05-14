@@ -42,3 +42,5 @@ Croque Madame
 
 	Tried this with weird pancetta sticks and caramelized onions instead of ham, and poached instead of fried egg. Topped with chopped parsley and fermented lemon peel. Would be better with some vegetable to make it lighter, maybe grilled eggplant.
 
+.. sectionauthor:: Carlo
+

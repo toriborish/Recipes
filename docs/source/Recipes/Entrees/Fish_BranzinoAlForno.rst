@@ -37,3 +37,5 @@ Branzino al forno
 `Source <https://www.marthastewart.com/1536623/roasted-branzino-lemon-and-thyme>`_
 
 More recipes with branzino: `alla ligure <https://ricette.giallozafferano.it/Branzino-alla-ligure.html>`_
+
+.. sectionauthor:: Carlo

@@ -32,7 +32,7 @@ Kue Nastar (Indonesian Pineapple Cookies)
 
 .. procedure::
 
-   Puree pineapple chunks using food processor or a blender.  
+   Puree pineapple chunks using food processor or a blender.
    Transfer to sauce pan, add sugar, then cook on medium heat until all liquid has evaporated.
    Lower the heat to low, continue to cook until it has thickened and is a little drier than the consistency of regular jam.
    Remove from heat, cool completely.
@@ -42,7 +42,7 @@ Kue Nastar (Indonesian Pineapple Cookies)
    Take about 16 grams of dough, flatten it, place 6 grams of pineapple jam in the center, and enclose the filling, forming into a round ball.
    Place the ball on a cookie sheet.
    Repeat with the rest of the dough (the cookies can be pretty close together since they don't expand much in the oven).
-   Cover the sheet with plastic wrap and refrigerate for an hour (or overnight). 
+   Cover the sheet with plastic wrap and refrigerate for an hour (or overnight).
 
    Preheat oven to 350 degrees F.
    In a small bowl, whisk the yolk and milk together for the egg wash.
@@ -52,11 +52,13 @@ Kue Nastar (Indonesian Pineapple Cookies)
 
 .. rubric:: References
 
-From Armin and Amalia. 
- 
+From Armin and Amalia.
+
 .. note::
 
-   The pineapple jam stores really well in the freezer.  
-   Last time I did this, I made jam from one pineapple, and it lasted me through several batches of cookies.  
-   Making the jam is the most time intensive part.  
+   The pineapple jam stores really well in the freezer.
+   Last time I did this, I made jam from one pineapple, and it lasted me through several batches of cookies.
+   Making the jam is the most time intensive part.
    I may have skipped the refrigerate step some of the times I've made these (I don't remember doing it, but it's been a while).
+
+.. sectionauthor:: Tori

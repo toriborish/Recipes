@@ -35,3 +35,5 @@ Ciabatta
 .. note::
 
    Used bread flour, seemed good! Also, water was 382 g.
+
+.. sectionauthor:: Carlo

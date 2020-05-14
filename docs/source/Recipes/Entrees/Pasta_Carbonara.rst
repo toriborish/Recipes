@@ -41,3 +41,5 @@ This makes enough for 3 (skinny) or 2 (hungry) people.
    This is not a completely traditional carbonara recipe. Still delicious!
 
    At least it doesn't commit crimes against humanity (cream or garlic).
+
+.. sectionauthor:: Carlo

@@ -25,3 +25,5 @@ Gelato al Fiordilatte
 `Source 1 <https://www.cucina.li/come-fare-il-gelato-professionale-ricette-gia-bilanciate/>`_
 `Source 2 <https://www.cucina.li/come-bilanciare-i-neutri-nel-gelato/>`_
 `Source 3 <https://www.pianetadessert.it/2016/06/10/produzione-e-bilanciatura-del-gelato/>`_
+
+.. sectionauthor:: Tori

@@ -28,3 +28,5 @@ Cantucci
    Maybe more orange and almonds, and less sugar?
 
 `Source 1 <https://www.cucchiaio.it/ricetta/cantucci/>`_
+
+.. sectionauthor:: Carlo

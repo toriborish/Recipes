@@ -30,3 +30,5 @@ Smillie, J. 2015, *Slow Fires*, Clarkson Potter
 .. note::
 
    very citrusy and delicious. Maybe add less liquid.
+
+.. sectionauthor:: Carlo

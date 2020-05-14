@@ -29,3 +29,5 @@ Source: Modified from the book Molly Moon's Homemade Ice Cream.
 .. note::
 
    The consistency seemed pretty good (it was pretty smooth), but I wasn't quite happy with the flavor.  I think I would try adding more boysenberries (and maybe see if the boysenberry flavor is stronger if I don't cook them).  I would also alter the ratio of milk and cream so there's more milk and less cream.  The ice cream seemed too creamy to me, when I wanted the berry flavor to dominate.  I'm not sure what was the fat percentage of the milk I used for this, but I don't think it was skim milk, so maybe using 2/3 skim milk and 1/3 cream (like I do for mint ice cream) would be better.
+
+.. sectionauthor:: Tori

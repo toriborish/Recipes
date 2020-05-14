@@ -17,3 +17,5 @@ Soy Sauce Kale
    golden. Cook 3-5 minutes until wilted and slightly browned. Add soy sauce
    and lemon juice. Cook until the liquids mostly evaporate and the kale is
    more wilted and darker.
+
+.. sectionauthor:: Carlo

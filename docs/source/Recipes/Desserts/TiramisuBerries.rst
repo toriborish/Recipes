@@ -36,3 +36,5 @@ Tiramisù Alle Fragole
 .. note::
    more straberries, more lemon juice.
    It worked but barely side of ok for strawberries and lemon
+
+.. sectionauthor:: Tori

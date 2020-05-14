@@ -26,3 +26,5 @@ Cassie's Lemon Bars
 .. note::
 
    (from Cassie) I doubled the filling so its more filling to crust. The recipe as is results in about half crust, half filling.
+
+.. sectionauthor:: Cassie
