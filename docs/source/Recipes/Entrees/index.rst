@@ -14,6 +14,7 @@ Entrees
    Pepper*
    Tomato*
    Fish*
+   Chicken*
    Beef*
    Pork*
    Pie*
