@@ -2,7 +2,7 @@
    single: banana
 
 Sour Cream Banana Bread
-====================
+========================
 
 .. ingredients::
 
