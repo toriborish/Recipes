@@ -29,12 +29,12 @@ Key Lime Pie
    Mash Graham crackers until very fine.  I often do this smashing them up in the bag they come in by hand and then using a rolling pin.  (Mix with sugar, if desired.)
    Mix in melted butter.
    Put this mixture into a pie tie and pat it down so it covers entire pie dish (it should probably be 1/4-1/3 inch thick).
-   Refridgerate crust until firm (at least 30 minutes).
+   Refrigerate crust until firm (at least 30 minutes).
 
    In another bowl, mix the condensed milk, egg yolks, and key lime juice.
-   Pour into refridgerated crust.
+   Pour into refrigerated crust.
    Bake in a preheated over at 350 degrees Fahrenheit for 15-20 minutes, until the filling is set.
-   Let cool and refridgerate.
+   Let cool and refrigerate.
 
    Whip cream and gradually add vanilla and sugar once it's almost done.  This needs to be whipped well in order to keep its shape for several days.
    Spread whipped cream on top of key lime layer once it's chilled.
