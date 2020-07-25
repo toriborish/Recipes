@@ -1,8 +1,8 @@
 .. index::
    single: cake; lemon
 
-Grandma's White Cake
-=====================
+White Cake
+===========
 
 .. ingredients::
 
@@ -30,6 +30,7 @@ Grandma's White Cake
 .. ingredients::
 
    Optional lemon filling:
+
    - 1 cup sugar
    - 3 tbsp. cornstarch
    - 1 cup boiling water

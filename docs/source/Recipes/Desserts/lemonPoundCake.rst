@@ -18,6 +18,7 @@ Lemon Pound Cake
    - 1 tbsp. grated lemon zest (from 2 medium lemons)
 
    For the glaze:
+
    - 1/2 cup freshly squeezed lemon juice
    - 1/4 cup white sugar
 

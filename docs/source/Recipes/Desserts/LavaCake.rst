@@ -26,6 +26,7 @@ Lava Cake
    Cook 7-10 minutes until the outer edge of the cake has cooked, but it is still nice and gooey in the center.
 
 .. rubric:: References
+
    This recipe comes from a French cooking class Tori did with her family.
 
 .. note::
