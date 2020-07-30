@@ -158,7 +158,7 @@ def add_buttonsData_to_context(app, pagename, templatename, context, doctree):
 
 
 def setup(app):
-    app.add_stylesheet("styles.css")
+    app.add_css_file("styles.css")
     app.add_directive('ingredients', Ingredients)
     app.add_directive('procedure', Procedure)
     app.connect("html-page-context", add_buttonsData_to_context)
