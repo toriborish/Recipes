@@ -16,7 +16,7 @@ Sheet Cake Brownies
    - 1 tsp. baking soda
    - 1/2 cup buttermilk
    - 1 tsp. vanilla extract
-   - 3 tbsp. unsweeteneed cocoa powder
+   - 3 tbsp. unsweetened cocoa powder
 
    For the icing:
 

@@ -24,7 +24,7 @@ Cinnamon Swirl Bread
 
 .. procedure::
 
-   Preheat oven to 350 degrees Fahrenheit (175 degrees Celcius).  In a large bowl, dissolve the sugar in the warm water, and then stir in yeast.
+   Preheat oven to 350 degrees F (175 degrees C).  In a large bowl, dissolve the sugar in the warm water, and then stir in yeast.
    Allow to proof until yeast resembles a creamy foam, about 10 minutes.
    Mix salt and oil into the yeast.
    Mix in flour one cup at a time.
@@ -40,9 +40,9 @@ Cinnamon Swirl Bread
 
 .. rubric:: References
 
-   This recipe comes from Sonia.  She gave it to Tori as thanks for driving her to a trailhead one time while at Williams.
+This recipe comes from Sonia.  She gave it to Tori as thanks for driving her to a trailhead one time while at Williams.
 
-.. notes::
+.. note::
 
    I've always made it without raisins, and it's a great snack food (or good as french toast).
 

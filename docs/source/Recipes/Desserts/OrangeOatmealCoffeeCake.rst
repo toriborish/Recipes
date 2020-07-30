@@ -40,8 +40,8 @@ Orange Oatmeal Coffee Cake
 
 .. rubric:: References
 
-   This is a recipe from Chris' family.
-   I really like it because it's delicious and slightly different than most other cakes I've had.
-   The initial recipe didn't call for orange zest, but I always add some.  I don't remember if I add it to the cake or glaze or both, but I'm sure it would work in all of them.
+This is a recipe from Chris' family.
+I really like it because it's delicious and slightly different than most other cakes I've had.
+The initial recipe didn't call for orange zest, but I always add some.  I don't remember if I add it to the cake or glaze or both, but I'm sure it would work in all of them.
 
 .. sectionauthor:: Tori

@@ -27,7 +27,7 @@ Lava Cake
 
 .. rubric:: References
 
-   This recipe comes from a French cooking class Tori did with her family.
+This recipe comes from a French cooking class Tori did with her family.
 
 .. note::
 

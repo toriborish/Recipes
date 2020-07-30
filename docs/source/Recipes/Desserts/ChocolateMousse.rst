@@ -12,8 +12,8 @@ Chocolate Mousse
 
 .. procedure::
 
-   In the top of a double boiler over barely simmering water, melt the chcolate, stirring intermittently until just melted.
-   While the chocolate is melting, place the egg whites in a clean dry bowl and whip them with an electric mixter until they hold soft peaks.
+   In the top of a double boiler over barely simmering water, melt the chocolate, stirring intermittently until just melted.
+   While the chocolate is melting, place the egg whites in a clean dry bowl and whip them with an electric mixer until they hold soft peaks.
    When the chocolate is melted, stir in 1/2 cup of the whipping cream.
    Fold in the whipped egg whites, being careful to retain as much of their volume as possible.
    Whip the remaining 1 cup of cream until it is quite firm, and fold it carefully into the chocolate mixture.

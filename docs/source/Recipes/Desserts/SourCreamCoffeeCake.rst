@@ -33,7 +33,7 @@ Sour Cream Coffee Cake
    Fold the dry ingredients into the creamed mixture and beat until just blended.  Do not overbeat.
    In a separate bowl, mix the remaining 1/4 cup sugar with the cinnamon and walnuts.
    Pour half of the batter into the bundt pan.  Sprinkle half the sugar/cinnamon mixture on top.  Add the remaining batter and top with the rest of the sugar/cinnamon mixture.
-   Set on middle rack of the over and bake for about 60 minutes or until a tootpick can be inserted in the center and come out clean.
+   Set on middle rack of the over and bake for about 60 minutes or until a toothpick can be inserted in the center and come out clean.
    Can serve either warm or cool.
 
 .. note::
