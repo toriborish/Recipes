@@ -4,6 +4,8 @@
 Leeks Braised with Oranges
 ==========================
 
+.. makes:: 2 large portions
+
 .. ingredients::
 
    - 4 leeks

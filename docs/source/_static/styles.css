@@ -75,3 +75,12 @@ footer a{
 .procedure a {
     font-weight: inherit !important;
 }
+
+.makes {
+    color: #444444 !important;
+    background-color: white !important;
+}
+
+.makes > .admonition-title {
+    font-weight: normal !important;
+}
