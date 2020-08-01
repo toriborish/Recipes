@@ -55,7 +55,7 @@ Lilikoi (Passion Fruit) Cheesecake Tart
    Refrigerate together before serving.
 
 .. image:: ../../Images/LilikoiCheesecakeTart.jpg
-   :width: 300
+   :width: 600
    :align: center
    :alt: Lilikoi cheesecake tart picture
 
