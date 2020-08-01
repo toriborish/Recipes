@@ -82,5 +82,7 @@ footer a{
 }
 
 .makes > .admonition-title {
+    color: #444444 !important;
+    background-color: white !important;
     font-weight: normal !important;
 }
