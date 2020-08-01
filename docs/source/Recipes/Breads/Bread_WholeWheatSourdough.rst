@@ -37,6 +37,11 @@ Whole Wheat Sourdough
    Bake for 25-30 minutes more until it looks baked to your taste.
    Put on cooling rack and wait until room temperature, 1-2 hours.
 
+.. note::
+
+   I tried changing the hydration between 68 and 78 % (not including starter), and to my surprise there
+   was *no difference* in crumb structure!
+
 .. rubric:: References
 
 https://www.youtube.com/watch?v=HlJEjW-QSnQ
