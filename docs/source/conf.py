@@ -124,6 +124,33 @@ class Ingredients(BaseAdmonition):
         return [admonition_node]
 
 
+class Makes(BaseAdmonition):
+
+    required_arguments = 1
+    optional_arguments = 0
+    node_class = nodes.admonition
+
+    def run(self):
+        set_classes(self.options)
+        text = 'Makes ' + self.arguments[0]
+        admonition_node = self.node_class(text, **self.options)
+        self.add_name(admonition_node)
+        if self.node_class is nodes.admonition:
+            title_text = text
+            textnodes, messages = self.state.inline_text(title_text,
+                                                         self.lineno)
+            title = nodes.title(title_text, '', *textnodes)
+            title.source, title.line = (
+                    self.state_machine.get_source_and_line(self.lineno))
+            admonition_node += title
+            admonition_node += messages
+            if 'classes' not in self.options:
+                admonition_node['classes'] += ['makes']
+        self.state.nested_parse(self.content, self.content_offset,
+                                admonition_node)
+        return [admonition_node]
+
+
 class Procedure(BaseAdmonition):
 
     required_arguments = 0
@@ -161,6 +188,7 @@ def setup(app):
     app.add_css_file("styles.css")
     app.add_directive('ingredients', Ingredients)
     app.add_directive('procedure', Procedure)
+    app.add_directive('makes', Makes)
     app.connect("html-page-context", add_buttonsData_to_context)
 
 
