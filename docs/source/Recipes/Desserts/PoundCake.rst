@@ -42,6 +42,7 @@ Pound Cake
 .. rubric:: References
 
 `food52 generic pound cake <https://food52.com/blog/25856-how-to-make-pound-cake>`_
+
 `food52 cocoa swirl pound cake <https://food52.com/recipes/84769-cocoa-swirl-streusel-pound-cake-recipe>`_
 
 .. note::

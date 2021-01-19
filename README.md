@@ -5,7 +5,5 @@
 To build with sphinx, `cd` to the `docs` folder and `make html` or `make latexpdf`.
 
 For a quick overview, go to the [introduction](docs/source/Recipes/Introduction/Introduction.rst),
-or look at it in all of its *Read the Docs* glory [here](https://carlos-recipes.readthedocs.io/en/latest/index.html).
-
-Also a built version is [here](https://carlogico.github.io/Recipes/index.html), built
+or a built version is [here](https://carlogico.github.io/Recipes/index.html), built
 [using GitHub Actions](.github/workflows/main.yml) and hosted by GitHub Pages.

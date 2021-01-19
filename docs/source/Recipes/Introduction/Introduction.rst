@@ -8,7 +8,7 @@ Some recipes act as placeholders and just contain links to recipes I liked.
 At some point the recipe will actually be typed out.
 
 The source is hosted on `GitHub <https://github.com/carlogico/Recipes>`_,
-and is build automatically using `Read the Docs <https://readthedocs.org>`_.
+and is built automatically [using GitHub Actions](.github/workflows/main.yml) and hosted by GitHub Pages.
 You can build locally using `Sphinx <https://www.sphinx-doc.org/en/master/>`_.
 Feel free to fork the project or open pull requests.
 
