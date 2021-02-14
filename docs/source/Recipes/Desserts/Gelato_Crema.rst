@@ -29,6 +29,6 @@ Gelato alla Crema
 
    The first time I made it, I used 4 egg yolks, and it was really rich and creamy.  The second time, I used only 2 egg yolks, and it was still quite delicious and creamy, so I'm probably going to stick with that. The first time I used 2% milk and the second I used whole milk, and both seemed to work well.  The second time I added around 1/2-1 tsp vanilla after I had let it cool down in the ice bath and before refrigerating. I think I could add more if I want it to have a vanilla flavor.  It might we worth trying either cooking to a slightly lower temperature or adding the egg later since this ice cream is very custardy.
 
-   This works well to pour coffee over it (Carlo made an afogato with it).  It also works to add chunks of cookie dough for cookie dough ice cream.
+   This works well to pour coffee over it (Carlo made an affogato with it).  It also works to add chunks of cookie dough for cookie dough ice cream.
 
 .. sectionauthor:: Carlo + Tori
