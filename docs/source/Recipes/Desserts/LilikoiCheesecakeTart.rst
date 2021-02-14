@@ -28,7 +28,7 @@ Lilikoi (Passion Fruit) Cheesecake Tart
    - 50 g butter, melted
    - ~1/3 cup sugar
    - 1 egg, whisked
-   - cornstarch
+   - cornstarch (possibly around 1.5-2 Tbsp?)
 
 .. procedure::
 
@@ -71,5 +71,6 @@ Lilikoi (Passion Fruit) Cheesecake Tart
    I used lilikoi juice instead of pulp, so I needed to add extra cornstarch to the topping since it didn't thicken enough on it's own.  I'm not sure exactly how much I added since I did it after the fact (mixed in with a little of the topping to avoid clumps), but maybe it would be ok with around 1 Tbsp?  It tasted great and ended up being the consistency I wanted, so I think using juice works well.
    The biggest mistake I made was that I added the egg when the lilikoi mixture was too hot, so a little bit of the egg scrambled and I had to remove it.  Avoid that in the future.
    I was happy with the combination of cheesecake tart and lilikoi sauce, but I'm not sure how happy I would have been with the cheesecake part on its own.  I might try something like a more traditional cheesecake next time.
+   I've now made the lilikoi curd again, and it actually goes quite well with raspberry too.  I still want to experiment more with making a raspberry/lilikoi cake.
 
 .. sectionauthor:: Tori
