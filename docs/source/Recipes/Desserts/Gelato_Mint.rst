@@ -29,6 +29,6 @@ Gelato alla Menta
 
 .. note::
 
-   This time it was a little icy.  It's been better before.
+   The first time I tried it since creating this recipe, I used the recipe here and it was a little icy.  The second time, I replaced the 2% milk with whole milk and it was still a little icy.  It's been smoother/creamier before so I'm not sure what was different.  I could try skim milk since that's probably what I've used before, but it's not obvious to me that would make it smoother.  One time I mixed in chocolate ganache after it had churned, and it looked great and tasted good, but I think I prefer my mint ice cream without chocolate.
 
 .. sectionauthor:: Tori
