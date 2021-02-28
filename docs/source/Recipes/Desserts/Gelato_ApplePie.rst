@@ -6,15 +6,17 @@ Applie Pie Ice Cream
 
 .. ingredients::
 
-For the ice cream:
+   For the ice cream:
+
    - 400 g milk
-   - 200 g cream 
+   - 200 g cream
    - 2 egg yolks
    - ~90 g white sugar
    - ~20 g brown sugar
    - 1 tsp cinnamon (I think a little less would be better - see notes)
 
-For the mix-ins:
+   For the mix-ins:
+
    - 2 apples, peeled and sliced into small pieces
    - just under 1/4 cup brown sugar
    - 3/4 tsp cinnamon
@@ -37,7 +39,7 @@ For the mix-ins:
 
    Mash up a few graham crackers.
 
-   Churn the ice cream.  
+   Churn the ice cream.
    When done, put it onto a container and swirl in the apples and graham crackers.
    Freeze.
 

@@ -9,4 +9,5 @@ Breads
 
    Bread*
    Pastry*
+   *
 
