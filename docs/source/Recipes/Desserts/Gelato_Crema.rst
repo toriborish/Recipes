@@ -11,6 +11,7 @@ Gelato alla Crema
    - 2 egg yolks
    - 120 g sugar
    - 15 g cornstarch
+   - zest of 1 lemon
 
 .. procedure::
 
