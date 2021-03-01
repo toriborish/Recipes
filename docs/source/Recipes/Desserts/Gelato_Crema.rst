@@ -32,4 +32,6 @@ Gelato alla Crema
 
    This works well to pour coffee over it (Carlo made an affogato with it).  It also works to add chunks of cookie dough for cookie dough ice cream.
 
+   Carlo: made it with 3 eggs to split the difference, was good. Could increase the total yield though.
+
 .. sectionauthor:: Carlo + Tori
