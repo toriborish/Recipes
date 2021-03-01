@@ -1,7 +1,7 @@
 .. index::
    single: gelato; apple pie; apple
 
-Applie Pie Ice Cream
+Apple Pie Ice Cream
 =====================
 
 .. ingredients::

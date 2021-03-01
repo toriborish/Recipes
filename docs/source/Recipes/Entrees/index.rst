@@ -17,5 +17,6 @@ Entrees
    Chicken*
    Beef*
    Pork*
+   Lamb*
    Pie*
 
