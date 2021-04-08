@@ -8,4 +8,6 @@ For a quick overview, go to the [introduction](docs/source/Recipes/Introduction/
 or a built version is [here](https://carlogico.github.io/Recipes/index.html), built
 [using GitHub Actions](.github/workflows/main.yml) and hosted by GitHub Pages.
 
+A template for a recipe `.rst` file is [here](template.rst),
+
 To contribute, follow https://jarv.is/notes/how-to-pull-request-fork-github/ or https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork.
