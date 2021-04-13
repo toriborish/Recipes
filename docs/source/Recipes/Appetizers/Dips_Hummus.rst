@@ -29,14 +29,6 @@ Hummus is a glorious dip, which is well suited to dehydration and backpacking be
 
       If you have canned chickpeas, and not a lot of time, this is where you start.
 
-   Tahini
-   -----------------
-
-      Make your own tahini. As always, good things take time to make. You can make your own tahini, this will also improve the result significantly. To make it, just roast husk free sesame seeds (this is what I normally find in stores) in a pot or pan: over high heat, continuously and energetically toss or mix the seeds. They need to uniformly roast, otherwise you will get both raw and burnt sesame. Do not let them smoke too much. Once the roasted sesame smell is filling the kitchen, put them in a blender and blend them. Do not leave them in the pan! even a few seconds will fuck up the sesame at the bottom, even after they are off the heat.
-
-      Once the sesame is blended to a deliciously smelling powder, move it to a container and add oil for preserving. I use olive oil because I am italian and this is what I like. It will shrink in volume so much you can fit a lot of it in a tiny container. This will keep for months.
-
-      If you are making hummus for dehydrating, do not add the oil. Just use the powder.
 
    Hummus
    -----------------
@@ -44,7 +36,9 @@ Hummus is a glorious dip, which is well suited to dehydration and backpacking be
       To make the hummus, blend the chickpeas while adding some of the lemon juice. Be careful: while delicious and refreshing, it can be overpowering. Add it slowly and taste often.
       If you are having trouble blending the chickpeas, add some of the aquafaba (the water from the cooked chickpeas), but be careful. You can easily make the hummus too soft.
 
-      Once it is blended to a smooth or more chunky cream, to your liking, add salt, garlic paste (just squished garlic, I use 1/5 of a clove), and tahini (or just roasted sesame powder if dehydrating). Distribute artistically in a bowl, so that a pool of olive oil can be formed on top, and add as much olive oil as you feel is enough.
+      Once it is blended to a smooth or more chunky cream, to your liking, add salt, garlic paste (just squished garlic, I use 1/5 of a clove), and tahini (or just roasted sesame powder if dehydrating). Make your own tahini.
+      
+      Distribute artistically in a bowl, so that a pool of olive oil can be formed on top, and add as much olive oil as you feel is enough.
 
       Sprinkle with delicious sumac, and enjoy spread over some toasted bread.
 
