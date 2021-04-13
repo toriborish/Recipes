@@ -40,7 +40,7 @@ Hummus is a glorious dip, which is well suited to dehydration and backpacking be
 
       Once you have all the flesh, chop it up finely with a knife. I prefer this to the blender version, but do explore! In my experience, this method helps to keep the correct amount of liquid: once you are done chopping, just pick the eggplant up and transfer it to a bowl, leaving most of the liquid on the cutting board.
 
-      In the bowl add lemon juice, garlic paste (just squished garlic, I use 1/5 of a clove), salt, yogurt, and tahini (make your own tahini). Add the ingredients a little bit at a time, so you can adjust to your liking.
+      In the bowl add lemon juice, garlic paste (just squished garlic, I use 1/5 of a clove), salt, yogurt, and tahini (make your own :doc:`Tahini`). Add the ingredients a little bit at a time, so you can adjust to your liking.
 
       Spread it so as to create a pool for the olive oil. I like to make a little island in the middle just because. Add sumac and pomegranate seeds on top.
       

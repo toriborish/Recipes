@@ -36,7 +36,7 @@ Hummus is a glorious dip, which is well suited to dehydration and backpacking be
       To make the hummus, blend the chickpeas while adding some of the lemon juice. Be careful: while delicious and refreshing, it can be overpowering. Add it slowly and taste often.
       If you are having trouble blending the chickpeas, add some of the aquafaba (the water from the cooked chickpeas), but be careful. You can easily make the hummus too soft.
 
-      Once it is blended to a smooth or more chunky cream, to your liking, add salt, garlic paste (just squished garlic, I use 1/5 of a clove), and tahini (or just roasted sesame powder if dehydrating). Make your own tahini.
+      Once it is blended to a smooth or more chunky cream, to your liking, add salt, garlic paste (just squished garlic, I use 1/5 of a clove), and tahini (or just roasted sesame powder if dehydrating). Make your own :doc:`Tahini`.
       
       Distribute artistically in a bowl, so that a pool of olive oil can be formed on top, and add as much olive oil as you feel is enough.
 
