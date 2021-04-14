@@ -22,8 +22,7 @@ Hummus is a glorious dip, which is well suited to dehydration and backpacking be
 
 .. procedure::
 
-   Eggplants
-   -----------------
+   *For the eggplants*:
       Roast eggplants in the oven. This is a little messy, so put them on something to gather the liquids which will come out.
 
       The goal is to cook them in the oven as if they were cooking on coals, my favorite way. So use high temperatures, I use 200°C, and roast them for 45min without any protection from the oven's heating elements. The skin needs to turn black and carbonize in some places. Don't worry! the inside won't burn. This is how you get the typical smokiness in the baba ganoush.
@@ -33,9 +32,7 @@ Hummus is a glorious dip, which is well suited to dehydration and backpacking be
       Let them cool slightly, and then tear them open a little bit. Leave them to drip for 10 min or so in a strainer.
 
 
-   Baba Ganoush
-   -----------------
-
+   *Baba ganoush*:
       For making the dip, I prefer to use a spoon to scrape the cooked flesh out of the skin. This should be a fairly easy process.
 
       Once you have all the flesh, chop it up finely with a knife. I prefer this to the blender version, but do explore! In my experience, this method helps to keep the correct amount of liquid: once you are done chopping, just pick the eggplant up and transfer it to a bowl, leaving most of the liquid on the cutting board.

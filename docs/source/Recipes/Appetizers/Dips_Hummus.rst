@@ -21,8 +21,7 @@ Hummus is a glorious dip, which is well suited to dehydration and backpacking be
 
 .. procedure::
 
-   Chickpeas
-   -----------------
+   *For the chickpeas*:
       Cooking your own chickpeas really makes a difference. If you have the time, presoak them over night, or put them directly in the pressure cooker for 10min with water and lots of salt, aim for mediterranean seawater.
 
       The actual cooking comes after. Drain them, rinse them, and put them in a pressure cooker, or if you have time in a pot (for me terracotta pots work really well with legumes). Remember to add some whole garlic cloves and laurel leaves (I use one of each). In a pressure cooker they will take 45 min, in a pot they will take 1h30min. Add salt only when they are done, and leave them be for a little while. You should be able to squish them between your fingers. Keep the cooking water!
@@ -30,9 +29,7 @@ Hummus is a glorious dip, which is well suited to dehydration and backpacking be
       If you have canned chickpeas, and not a lot of time, this is where you start.
 
 
-   Hummus
-   -----------------
-
+   *Hummus*:
       To make the hummus, blend the chickpeas while adding some of the lemon juice. Be careful: while delicious and refreshing, it can be overpowering. Add it slowly and taste often.
       If you are having trouble blending the chickpeas, add some of the aquafaba (the water from the cooked chickpeas), but be careful. You can easily make the hummus too soft.
 
