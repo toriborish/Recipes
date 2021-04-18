@@ -1,7 +1,7 @@
 .. index::
    single: dips; hummus
 
-To make hummus
+Hummus
 =====================
 
 Hummus is a glorious dip, which is well suited to dehydration and backpacking before the addition of oil. It will save any lunch.
@@ -52,4 +52,3 @@ Hummus is a glorious dip, which is well suited to dehydration and backpacking be
    To rehydrate, just add a little bit of room temperature water. Start with a 2:1 hummus to water volume ratio, and adjust later. It should rehydrate in 5 minutes.
 
 .. sectionauthor:: Davide
-
