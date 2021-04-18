@@ -6,9 +6,6 @@ Grapefruit Cookies
 
 .. makes:: around 24 cookies (fewer if lots of dough is sampled)
 
-..
-   If you have a single set of ingredients:
-
 .. ingredients::
 
    - 1 cup sugar (plus a little extra for dipping)
@@ -21,9 +18,6 @@ Grapefruit Cookies
    - 2 tsp baking powder
    - 1/2 tsp cinnamon
 
-..
-   How to make the stuff. Mandatory.
-
 .. procedure::
 
    Preheat oven to 350 F.
@@ -33,21 +27,13 @@ Grapefruit Cookies
    Create small balls of the dough and roll gently in extra sugar before placing on baking sheet.
    Bake for around 12 minutes.
 
-..
-   If you want to link to any existing recipes on the web or a book. Optional section.
-
 .. rubric:: References
 
 `link <https://www.homesicktexan.com/2013/02/ruby-red-grapefruit-cookies.html>`_
-
-..
-   If you want to add some notes on how the recipe tasted last time you make it, or suggestions for the future. Optional section.
 
 .. note::
 
    Carlo prefers these when they are flattened out a little before baking.  We tried with and without the extra sugar on the outside, but they do seem better with it.
 
-..
-   Who wrote the page.
 
 .. sectionauthor:: Tori

@@ -3,8 +3,6 @@
 
 Lemon Sorbet
 =============
-..
-   If you have a single set of ingredients:
 
 .. ingredients::
 
@@ -12,9 +10,6 @@ Lemon Sorbet
    - zest of 4 lemons
    - 2 cups water
    - 1.5 cups sugar
-
-..
-   How to make the stuff. Mandatory.
 
 .. procedure::
 
@@ -24,14 +19,8 @@ Lemon Sorbet
    Put the mixture in the fridge until completely cool.
    Churn in the ice cream maker on the sorbet setting until the noise changes and it looks like it's the right consistency.
 
-..
-   If you want to add some notes on how the recipe tasted last time you make it, or suggestions for the future. Optional section.
-
 .. note::
 
    We've made lemon sorbet with a variety of water/sugar/lemon juice ratios, and I'm still not quite sure what is ideal, but this one turned out well.  It probably depends some on how sweet the lemons are though.  I don't always let the zest sit in with the juice ahead of time (sometimes I just add the zest to the sorbet), but this method seems to work well, although it's not necessary if time is limited.
-
-..
-   Who wrote the page.
 
 .. sectionauthor:: Tori
