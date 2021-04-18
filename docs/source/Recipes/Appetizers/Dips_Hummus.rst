@@ -22,22 +22,24 @@ Hummus is a glorious dip, which is well suited to dehydration and backpacking be
 .. procedure::
 
    *For the chickpeas*:
-      Cooking your own chickpeas really makes a difference. If you have the time, presoak them over night, or put them directly in the pressure cooker for 10min with water and lots of salt, aim for mediterranean seawater.
 
-      The actual cooking comes after. Drain them, rinse them, and put them in a pressure cooker, or if you have time in a pot (for me terracotta pots work really well with legumes). Remember to add some whole garlic cloves and laurel leaves (I use one of each). In a pressure cooker they will take 45 min, in a pot they will take 1h30min. Add salt only when they are done, and leave them be for a little while. You should be able to squish them between your fingers. Keep the cooking water!
+   Cooking your own chickpeas really makes a difference. If you have the time, presoak them over night, or put them directly in the pressure cooker for 10min with water and lots of salt, aim for mediterranean seawater.
 
-      If you have canned chickpeas, and not a lot of time, this is where you start.
+   The actual cooking comes after. Drain them, rinse them, and put them in a pressure cooker, or if you have time in a pot (for me terracotta pots work really well with legumes). Remember to add some whole garlic cloves and laurel leaves (I use one of each). In a pressure cooker they will take 45 min, in a pot they will take 1h30min. Add salt only when they are done, and leave them be for a little while. You should be able to squish them between your fingers. Keep the cooking water!
+
+   If you have canned chickpeas, and not a lot of time, this is where you start.
 
 
    *Hummus*:
-      To make the hummus, blend the chickpeas while adding some of the lemon juice. Be careful: while delicious and refreshing, it can be overpowering. Add it slowly and taste often.
-      If you are having trouble blending the chickpeas, add some of the aquafaba (the water from the cooked chickpeas), but be careful. You can easily make the hummus too soft.
 
-      Once it is blended to a smooth or more chunky cream, to your liking, add salt, garlic paste (just squished garlic, I use 1/5 of a clove), and tahini (or just roasted sesame powder if dehydrating). Make your own :doc:`Tahini`.
+   To make the hummus, blend the chickpeas while adding some of the lemon juice. Be careful: while delicious and refreshing, it can be overpowering. Add it slowly and taste often.
+   If you are having trouble blending the chickpeas, add some of the aquafaba (the water from the cooked chickpeas), but be careful. You can easily make the hummus too soft.
 
-      Distribute artistically in a bowl, so that a pool of olive oil can be formed on top, and add as much olive oil as you feel is enough.
+   Once it is blended to a smooth or more chunky cream, to your liking, add salt, garlic paste (just squished garlic, I use 1/5 of a clove), and tahini (or just roasted sesame powder if dehydrating). Make your own :doc:`Tahini`.
 
-      Sprinkle with delicious sumac, and enjoy spread over some toasted bread.
+   Distribute artistically in a bowl, so that a pool of olive oil can be formed on top, and add as much olive oil as you feel is enough.
+
+   Sprinkle with delicious sumac, and enjoy spread over some toasted bread.
 
 .. note::
 
