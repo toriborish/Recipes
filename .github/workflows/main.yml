@@ -33,12 +33,12 @@ jobs:
         build-command: "make epub"
         docs-folder: "docs/"
         
-    # Grabbing custom dependencies and building as a pdf.
-    - uses: ammaraskar/sphinx-action@master
-      with:
-        pre-build-command: "apt-get update -y && apt-get install -y latexmk texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended"
-        build-command: "make latexpdf"
-        docs-folder: "docs/"
+    # # Grabbing custom dependencies and building as a pdf.
+    # - uses: ammaraskar/sphinx-action@master
+    #   with:
+    #     pre-build-command: "apt-get update -y && apt-get install -y latexmk texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended"
+    #     build-command: "make latexpdf"
+    #     docs-folder: "docs/"
 
     - name: Commit documentation changes
       run: |
@@ -48,7 +48,6 @@ jobs:
         cd ..
         cp -r docs/build/html/* gh-pages/
         mkdir gh-pages/_downloads
-        cp docs/build/latex/recipes.pdf gh-pages/_downloads/recipes.pdf
         cp docs/build/epub/Recipes.epub gh-pages/_downloads/Recipes.epub
         cd gh-pages
         touch .nojekyll
