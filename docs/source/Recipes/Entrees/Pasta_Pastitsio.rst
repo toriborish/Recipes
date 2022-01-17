@@ -9,6 +9,7 @@ Pastitsio
 .. ingredients::
 
     For the meat sauce:
+
     - 1 medium chopped onion
     - 2 cloves mashed garlic (?)
     - 1 lb. ground lamb
@@ -19,12 +20,14 @@ Pastitsio
     - 1/4 tsp pepper
 
     For the white sauce:
+
     - 2 cups milk
     - 6 Tbsp flour
     - ~4 Tbsp butter/olive oil
     - salt/pepper/garlic powder to taste
 
     Other:
+
     - Parmesan cheese
     - 1 lb. grated mozarella
     - 1 lb. penne

@@ -25,7 +25,7 @@ Lilikoi (Passion Fruit) Curd
 
 .. rubric:: References
 
-    'Source <https://www.foodlovers.co.nz/recipes/passionfruit-cheesecake-tart.html>`_
+`Source <https://www.foodlovers.co.nz/recipes/passionfruit-cheesecake-tart.html>`_
 
 .. note::
 

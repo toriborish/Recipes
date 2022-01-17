@@ -8,20 +8,23 @@ Lemon Tart
 
 .. ingredients::
 
-    For the crust (enough for 2 tarts):
-    - 1/2 cup + 1 Tbsp. butter at room temperature
-    - 1/3 cup sugar
-    - 1 egg at room temperature
-    - 1 3/4 cups (500 g) flour
+   For the crust (enough for 2 tarts):
+
+   - 1/2 cup + 1 Tbsp. butter at room temperature
+   - 1/3 cup sugar
+   - 1 egg at room temperature
+   - 1 3/4 cups (500 g) flour
 
    For the filling:
-    - 1/2 cup + 2 Tbsp lemon juice
-    - 3 eggs
-    - 1 egg yolk
-    - 1/2 cup sugar
-    - ~4-5 Tbsp butter
+
+   - 1/2 cup + 2 Tbsp lemon juice
+   - 3 eggs
+   - 1 egg yolk
+   - 1/2 cup sugar
+   - ~4-5 Tbsp butter
 
    Optional topping:
+
    - Whipped cream (cream, powdered sugar, vanilla)
 
 .. procedure::
@@ -47,7 +50,7 @@ Lemon Tart
 
 .. rubric:: References
 
-    Tartine cookbook.
+Tartine cookbook.
 
 .. note::
 
