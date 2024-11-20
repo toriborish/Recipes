@@ -109,17 +109,17 @@ Halloween Cookies
    Bake cookies (the double chocolate ones work well, but you could probably put the eyes on any other type of cookie too) and let cool.
    Attach the eyes to the cookies (with a tiny bit of melted chocolate, the frosting from the eyes, etc.) in whatever pattern you like. It looks cool if you have eyes of difference sizes.
 
-.. image:: ../../Images/HalloweenCookies2021.HEIC
+.. image:: ../../Images/HalloweenCookies2021.jpg
    :width: 600
    :align: center
    :alt: Cookies decorated with spiders, ghosts, and eyes.
 
-.. image:: ../../Images/HalloweenCookies2022.HEIC
+.. image:: ../../Images/HalloweenCookies2022.jpg
    :width: 600
    :align: center
    :alt: Cookies decorated with spiders and eyes.
 
-.. image:: ../../Images/HalloweenCookies2024.HEIC
+.. image:: ../../Images/HalloweenCookies2024.jpg
    :width: 600
    :align: center
    :alt: Cookies decorated with spiders and ghosts.

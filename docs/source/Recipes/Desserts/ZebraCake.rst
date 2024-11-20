@@ -33,7 +33,7 @@ Zebra Cake
     You can eat the cake on its own or with a cream cheese frosting.
 
 
-.. image:: ../../Images/ZebraCake.HEIC
+.. image:: ../../Images/ZebraCake.jpg
    :width: 600
    :align: center
    :alt: Cake with alternating dark and light sections

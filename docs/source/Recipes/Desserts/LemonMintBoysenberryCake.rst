@@ -80,7 +80,7 @@ Lemon Mint Boysenberry Cake
     While the mixer is running, add a few tablespoons of butter at a time.
     Keep mixing until the frosting has emulsified.
 
-.. image:: ../../Images/LemonMintBoysenberryCake.HEIC
+.. image:: ../../Images/LemonMintBoysenberryCake.jpg
    :width: 600
    :align: center
    :alt: Lemon-mint-boysenberry cake
