@@ -1,5 +1,5 @@
 # requests
 requests
 
-#sphinx_bootstrap_theme
-sphinx_bootstrap_theme
+#insipid-sphinx-theme
+insipid-sphinx-theme
