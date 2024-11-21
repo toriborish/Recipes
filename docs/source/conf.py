@@ -11,7 +11,6 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 
 import os
-import sphinx_bootstrap_theme
 from docutils.parsers.rst.directives.admonitions import BaseAdmonition
 from docutils import nodes
 from docutils.parsers.rst.roles import set_classes
@@ -77,18 +76,14 @@ master_doc = 'index'
 # a list of builtin themes.
 #
 
+html_theme = 'insipid'
+html_permalinks_icon = '#'
 html_theme_options = {
-    'source_link_position': "footer",
-    'bootswatch_theme': "paper",
-    'navbar_pagenav': False,
-    'navbar_site_name': "Chapters",
-    'navbar_sidebarrel': False,
-    'bootstrap_version': "3",
-    'globaltoc_depth': -1
-    }
-
-html_theme = 'bootstrap'
-html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+    'body_centered': True,
+    'breadcrumbs': True,
+    'left_buttons': ['search-button.html', 'epub-button.html'],
+    'show_insipid': False
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -189,7 +184,6 @@ def setup(app):
     app.add_directive('ingredients', Ingredients)
     app.add_directive('procedure', Procedure)
     app.add_directive('makes', Makes)
-    app.connect("html-page-context", add_buttonsData_to_context)
 
 
 # -- Options for LaTeX output ---------------------------------------------
