@@ -23,7 +23,7 @@ jobs:
        lfs: True
     
     # Building as html.
-    - uses: ammaraskar/sphinx-action@master
+    - uses: ammaraskar/sphinx-action@8.1.3
       with:
         docs-folder: "docs/"
         
