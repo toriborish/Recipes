@@ -12,6 +12,7 @@ Table of Contents
    Recipes/Entrees/index.rst
    Recipes/Sides/index.rst
    Recipes/Desserts/index.rst
+   Recipes/Gelato/index.rst
 
 * :ref:`search`
 * :ref:`genindex`

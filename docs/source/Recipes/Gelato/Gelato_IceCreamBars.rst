@@ -10,7 +10,7 @@ Cookie dough ice cream bar
 
    - ice cream (see, for example :doc:`Gelato_Crema`)
    - 15+ oz chocolate (I used ~60% Valhrona solid chocolate in small pieces)
-   - 1/2 recipe cookie dough (see :doc:`ChocolateChipCookies`)
+   - 1/2 recipe cookie dough (see :doc:`../Desserts/ChocolateChipCookies`)
    - (Optional: almond slices)
 
 .. procedure::
