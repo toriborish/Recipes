@@ -23,6 +23,11 @@ Crostoli
    Fry in 350 F oil until golden.
    Dust with powdered sugar and serve. Do not choke on the powdered sugar.
 
+.. image:: ../../Images/Crostoli.jpg
+   :width: 600
+   :align: center
+   :alt: picture of Crostoli
+
 .. rubric:: References
 
 `tavolartegusto <https://www.tavolartegusto.it/ricetta/chiacchiere-di-carnevale-ricetta-segreti-passo-passo/>`_
